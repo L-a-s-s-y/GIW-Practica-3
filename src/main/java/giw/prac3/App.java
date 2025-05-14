@@ -6,9 +6,6 @@ import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.IndexWriter;
-import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -38,8 +35,10 @@ public class App {
         Query query = parser.parse("Lucene");
 
         TopDocs results = searcher.search(query, 5);
+        StoredFields storedFields = searcher.storedFields();
         for (ScoreDoc scoreDoc : results.scoreDocs) {
-            Document resultDoc = searcher.doc(scoreDoc.doc);
+            //Document resultDoc = searcher.doc(scoreDoc.doc);
+            Document resultDoc = storedFields.document(scoreDoc.doc);
             System.out.println("Encontrado: " + resultDoc.get("title"));
         }
 

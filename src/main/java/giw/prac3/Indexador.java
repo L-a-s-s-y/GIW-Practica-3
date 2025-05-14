@@ -4,13 +4,8 @@ import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.*;
 import org.apache.lucene.index.*;
-import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.queryparser.classic.QueryParser;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -47,17 +42,6 @@ public class Indexador {
         // Verificación de la indexación
         try (DirectoryReader reader = DirectoryReader.open(indexDir)) {
             System.out.println("Total de documentos indexados: " + reader.maxDoc());
-
-            //IndexSearcher searcher = new IndexSearcher(reader);
-            //String queryStr = "kill"; // cambia por tu palabra clave
-            //QueryParser parser = new QueryParser("contents", analyzer); // usamos el mismo Analyzer
-            //Query query = parser.parse(queryStr);
-            //TopDocs hits = searcher.search(query, 10);
-            //System.out.println("Documentos encontrados para \"" + queryStr + "\": " + hits.totalHits.value);
-            //for (ScoreDoc scoreDoc : hits.scoreDocs) {
-            //    Document doc = searcher.doc(scoreDoc.doc);
-            //    System.out.println(" -> " + doc.get("path"));
-            //}
         }
         System.out.println("Indexación completa.");
     }
@@ -99,8 +83,9 @@ public class Indexador {
             }
 
             Document doc = new Document();
-            doc.add(new StringField("path", file.toString(), Field.Store.YES));
-            doc.add(new TextField("contents", content, Field.Store.YES));
+            doc.add(new TextField("PATH", file.toString(), Field.Store.YES));
+            doc.add(new TextField("TITLE", file.toString(), Field.Store.YES));
+            doc.add(new TextField("CONTENT", content, Field.Store.YES));
             writer.addDocument(doc);
         } catch (Exception e) {
             System.err.println("Error indexando " + file + ": " + e.getMessage());
