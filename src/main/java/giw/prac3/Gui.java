@@ -1,23 +1,29 @@
 package giw.prac3;
 
+import org.apache.lucene.search.highlight.Highlighter;
+import org.apache.lucene.search.highlight.QueryScorer;
+import org.apache.lucene.search.highlight.SimpleHTMLFormatter;
+import org.apache.lucene.search.highlight.SimpleSpanFragmenter;
+import org.apache.lucene.search.highlight.Fragmenter;
+
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.StoredFields;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.*;
-//import org.apache.lucene.search.highlight.*;
+import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.util.QueryBuilder;
 
 import javax.swing.*;
-import javax.swing.text.Highlighter;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.io.*;
 import java.nio.file.Paths;
-import java.text.Normalizer;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,35 +32,39 @@ public class Gui extends JFrame {
     private final JTextField queryField;
     private final JTextArea resultArea;
     private final JButton searchButton;
+    private final JButton listarTodosButton;
 
     private final IndexSearcher searcher;
     private final Analyzer analyzer;
+
+    private String indexPath;
 
     public Gui() throws Exception {
         super("Buscador Lucene");
 
         String stopwordsPath = "/home/lassy/MasterUGR/GIW/Practica3/lista_stop_words.txt";
-        String indexPath = "/home/lassy/MasterUGR/GIW/Practica3/index";
+        this.indexPath = "/home/lassy/MasterUGR/GIW/Practica3/index";
 
-        // Configuración del índice
         CharArraySet stopwords = loadStopwords(stopwordsPath);
         this.analyzer = new StandardAnalyzer(stopwords);
         DirectoryReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
         this.searcher = new IndexSearcher(reader);
 
-        // Configuración GUI
         queryField = new JTextField(30);
         searchButton = new JButton("Buscar");
+        listarTodosButton = new JButton("Índice");
         resultArea = new JTextArea(20, 70);
         resultArea.setEditable(false);
         JScrollPane scrollPane = new JScrollPane(resultArea);
 
-        //searchButton.addActionListener(this::realizarBusqueda);
+        listarTodosButton.addActionListener(this::listarTodosDocumentos);
+        searchButton.addActionListener(this::busquedaPorFrase);
 
         JPanel inputPanel = new JPanel();
         inputPanel.add(new JLabel("Consulta:"));
         inputPanel.add(queryField);
         inputPanel.add(searchButton);
+        inputPanel.add(listarTodosButton);
 
         this.setLayout(new BorderLayout());
         this.add(inputPanel, BorderLayout.NORTH);
@@ -66,70 +76,109 @@ public class Gui extends JFrame {
         this.setVisible(true);
     }
 
-//    private void realizarBusqueda(ActionEvent e) {
-//        String input = queryField.getText().trim();
-//        resultArea.setText("");
-//
-//        if (input.isEmpty()) {
-//            resultArea.setText("Por favor, escribe una consulta.");
-//            return;
-//        }
-//
-//        try {
-//            QueryParser parser = new QueryParser("contents", analyzer);
-//            Query query = parser.parse(input);
-//
-//            TopDocs results = searcher.search(query, 10);
-//            resultArea.append("Se encontraron " + results.totalHits.value()+ " documentos relevantes:\n\n");
-//
-//            // Preparar resaltador
-//            QueryScorer scorer = new QueryScorer(query, "contents");
-//            Fragmenter fragmenter = new SimpleSpanFragmenter(scorer, 100);
-//            Highlighter highlighter = new Highlighter(new SimpleHTMLFormatter("***", "***"), scorer);
-//            highlighter.setTextFragmenter(fragmenter);
-//
-//            for (ScoreDoc scoreDoc : results.scoreDocs) {
-//                Document doc = searcher.doc(scoreDoc.doc);
-//                String path = doc.get("path");
-//                String content = doc.get("contents");
-//
-//                String snippet = highlighter.getBestFragment(analyzer, "contents", content);
-//                if (snippet == null) {
-//                    snippet = content.length() > 100 ? content.substring(0, 100) + "..." : content;
-//                }
-//
-//                resultArea.append(String.format("-> [%.4f] %s\n", scoreDoc.score, path));
-//                resultArea.append("   " + snippet + "\n\n");
-//            }
-//
-//            guardarResultados(input, results, highlighter);
-//        } catch (Exception ex) {
-//            resultArea.append("Error en la búsqueda: " + ex.getMessage());
-//        }
-//    }
-//
-//    private void guardarResultados(String consulta, TopDocs results, Highlighter highlighter) throws Exception {
-//        String fileName = "resultados-" + normalizeFilename(consulta) + ".txt";
-//        try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
-//            writer.write("Consulta: " + consulta + "\n");
-//            writer.write("Documentos encontrados: " + results.totalHits.value + "\n\n");
-//
-//            for (ScoreDoc scoreDoc : results.scoreDocs) {
-//                Document doc = searcher.doc(scoreDoc.doc);
-//                String path = doc.get("path");
-//                String content = doc.get("contents");
-//
-//                String snippet = highlighter.getBestFragment(analyzer, "contents", content);
-//                if (snippet == null) {
-//                    snippet = content.length() > 100 ? content.substring(0, 100) + "..." : content;
-//                }
-//
-//                writer.write(String.format("-> [%.4f] %s\n", scoreDoc.score, path));
-//                writer.write("   " + snippet + "\n\n");
-//            }
-//        }
-//    }
-//
+    private void listarTodosDocumentos(ActionEvent event){
+        resultArea.setText("");
+        this.indexPath = "/home/lassy/MasterUGR/GIW/Practica3/index";
+        try{
+            FSDirectory indexDir = FSDirectory.open(Paths.get(indexPath));
+            IndexSearcher searcher = new IndexSearcher(DirectoryReader.open(indexDir));
+            QueryParser queryParser = new QueryParser("title", new StandardAnalyzer());
+            Query query = queryParser.parse("*:*");
+            TopDocs todos = searcher.search(query, 2000);
+            if (todos.scoreDocs != null) {
+                StoredFields storedFields = searcher.storedFields();
+                DirectoryReader reader = DirectoryReader.open(indexDir);
+                resultArea.append("Total de documentos: " + reader.maxDoc()+"\n");
+                for (ScoreDoc doc : todos.scoreDocs){
+                    int docidx = doc.doc;
+                    Document docRetrieved = storedFields.document(docidx);
+                    resultArea.append("------------------------------------------------------------------------\n");
+                    resultArea.append("Title: "+docRetrieved.get("TITLE")+"\n");
+                    resultArea.append("Path: "+docRetrieved.get("PATH")+"\n");
+
+                }
+                resultArea.append("------------------------------------------------------------------------\n");
+            }
+        } catch (Exception e){
+            e.printStackTrace();
+        }
+    }
+
+    /**
+     * Funciona igual si se usa un sólo término
+     */
+    private void busquedaPorFrase(ActionEvent event){
+
+        String searchVal = queryField.getText().trim();
+        resultArea.setText("");
+
+        if (searchVal.isEmpty()) {
+            resultArea.setText("Por favor, escribe una consulta.");
+            return;
+        }
+
+        this.indexPath = "/home/lassy/MasterUGR/GIW/Practica3/index";
+        System.out.println("------------------------------------------------------------------------");
+        System.out.println("BUSCANDO: "+searchVal);
+
+        try{
+            FSDirectory indexDir = FSDirectory.open(Paths.get(indexPath));
+            IndexSearcher searcher = new IndexSearcher(DirectoryReader.open(indexDir));
+
+            ArrayList<String> allSearchKeywords = new ArrayList<>();
+            String words[] = searchVal.split(" ");
+            for(int i = 0; i<words.length; i++){
+                allSearchKeywords.add(words[i]);
+            }
+
+            if (allSearchKeywords != null && !allSearchKeywords.isEmpty()){
+                QueryBuilder bldr = new QueryBuilder(new StandardAnalyzer());
+                BooleanQuery.Builder chainQryBldr = new BooleanQuery.Builder();
+            
+                for (String txtToSearch : allSearchKeywords){
+                    Query q1 = bldr.createPhraseQuery("TITLE", txtToSearch);
+                    Query q2 = bldr.createPhraseQuery("PATH", txtToSearch);
+                    Query q3 = bldr.createPhraseQuery("CONTENT", txtToSearch);
+
+                    chainQryBldr.add(q1, Occur.SHOULD);
+                    chainQryBldr.add(q2, Occur.SHOULD);
+                    chainQryBldr.add(q3, Occur.SHOULD);
+                }
+            
+                BooleanQuery finalQry = chainQryBldr.build();
+
+                TopDocs allFound = searcher.search(finalQry, 20);
+
+                if (allFound.scoreDocs != null) {
+
+                    QueryScorer scorer = new QueryScorer(finalQry, "CONTENT");
+                    Fragmenter fragmenter = new SimpleSpanFragmenter(scorer, 100);
+                    Highlighter highlighter = new Highlighter(new SimpleHTMLFormatter(">", "<"), scorer);
+                    highlighter.setTextFragmenter(fragmenter);
+                    //fragmenter.
+                    StoredFields storedFields = searcher.storedFields();
+                    for (ScoreDoc doc : allFound.scoreDocs){
+                        int docidx = doc.doc;
+                        Document docRetrieved = storedFields.document(docidx);
+                        String aux = "Score: " + doc.score +"| Title: "+docRetrieved.get("TITLE")+"\n";
+                        resultArea.append("------------------------------------------------------------------------\n");
+                        resultArea.append(aux);
+                        aux = "Path: "+docRetrieved.get("PATH")+"\n";
+                        resultArea.append(aux);
+                        String content = docRetrieved.get("CONTENT");
+                        String snippet = highlighter.getBestFragment(analyzer, "CONTENT", content);
+                        if (snippet == null) {
+                            snippet = content.length() > 100 ? content.substring(0, 100) + "..." : content;
+                        }
+                        resultArea.append("   " + snippet + "\n");
+                    }
+                }
+            }
+        } catch (Exception e){
+            e.printStackTrace();
+        }
+    }
+
     private static CharArraySet loadStopwords(String filePath) throws IOException {
         List<String> stopwordList = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
@@ -140,13 +189,6 @@ public class Gui extends JFrame {
         }
         return new CharArraySet(stopwordList, true);
     }
-//
-//    private static String normalizeFilename(String input) {
-//        String normalized = Normalizer.normalize(input, Normalizer.Form.NFD);
-//        normalized = normalized.replaceAll("[^\\w\\s-]", "").replaceAll("\\s+", "_");
-//        return normalized.toLowerCase();
-//    }
-//
     public static void main(String[] args) throws Exception {
         //if (args.length != 2) {
         //    System.err.println("Uso: java BuscadorGUI <ruta-indice> <archivo-stopwords>");
