@@ -1,0 +1,3715 @@
+1
+00:00:11,030 --> 00:00:16,990
+História Original, Roteiro e Design de Mecânica
+
+2
+00:00:11,030 --> 00:00:16,990
+KATSUHIRO OTOMO
+
+3
+00:00:23,330 --> 00:00:28,000
+Haruko!
+
+4
+00:00:28,000 --> 00:00:32,010
+Design de Personagem Original
+
+5
+00:00:28,000 --> 00:00:32,010
+HISASHI EGUCHI
+
+6
+00:00:36,010 --> 00:00:43,350
+Haruko, fiz xixi na cama.
+
+7
+00:00:40,010 --> 00:00:44,020
+Diretor de Animação
+
+8
+00:00:40,010 --> 00:00:44,020
+FUMIO IIDA
+
+9
+00:00:49,020 --> 00:00:53,860
+Eu me sinto péssimo, Haruko.
+
+10
+00:00:53,860 --> 00:00:58,030
+Haruko.
+
+11
+00:00:58,030 --> 00:01:02,040
+Diretor de Arte
+
+12
+00:00:58,030 --> 00:01:02,040
+HIROSHI SASAKI
+
+13
+00:01:02,540 --> 00:01:05,040
+Apenas uma década
+após a sua criação...
+
+14
+00:01:05,040 --> 00:01:08,380
+a Rede de Crise Médica
+já está sobrecarregada.
+
+15
+00:01:08,920 --> 00:01:13,460
+Distribuímos pingentes de Alerta
+Médico para doentes crônicos...
+
+16
+00:01:13,460 --> 00:01:16,050
+como cardiopatas e idosos.
+
+17
+00:01:16,050 --> 00:01:18,720
+Distribuímos 7 milhões de pingentes!
+
+18
+00:01:18,720 --> 00:01:23,060
+As casas de repouso estão lotadas...
+
+19
+00:01:19,050 --> 00:01:23,060
+Diretor de Fotografia
+
+20
+00:01:19,050 --> 00:01:23,060
+NHIDEO OKAZAKI
+
+21
+00:01:23,060 --> 00:01:25,600
+e elas não podem
+pagar equipamentos modernos.
+
+22
+00:01:25,600 --> 00:01:30,360
+Também estamos enfrentando
+escassez de funcionários em casa.
+
+23
+00:01:30,360 --> 00:01:34,650
+Não há enfermeiras suficientes e seus
+salários estão subindo vertiginosamente.
+
+24
+00:01:35,860 --> 00:01:37,150
+Com licença.
+
+25
+00:01:40,410 --> 00:01:45,160
+Eu tenho a solução para
+todos os problemas dos idosos!
+
+26
+00:01:42,160 --> 00:01:46,160
+Música BUN ITAKURA
+
+27
+00:01:42,160 --> 00:01:46,160
+Tema Musical MISHIO OGAWA
+
+28
+00:01:45,790 --> 00:01:48,670
+Isso vai revolucionar
+a medicina!
+
+29
+00:01:48,670 --> 00:01:51,840
+Tenho um projeto para uma nova
+sociedade, respeitando os idosos.
+
+30
+00:01:53,000 --> 00:01:57,760
+Em uma única década, podemos
+eliminar todos os nossos problemas...
+
+31
+00:01:57,760 --> 00:02:00,640
+e conceder aos idosos
+uma vida rica e plena!
+
+32
+00:02:00,640 --> 00:02:06,930
+E para coroar esse sonho
+magnífico, já temos financiamento!
+
+33
+00:02:06,930 --> 00:02:09,270
+O Ministério do Bem-Estar Público...
+
+34
+00:02:09,270 --> 00:02:13,190
+recebeu o maior
+projeto deste século!
+
+35
+00:02:13,190 --> 00:02:15,190
+Esta é a nossa tarefa.
+
+36
+00:02:15,190 --> 00:02:19,700
+Apresento-vos a obra mais
+importante da nossa era...
+
+37
+00:02:19,700 --> 00:02:23,490
+um projeto que vai conciliar os
+mais novos e os mais velhos...
+
+38
+00:02:23,490 --> 00:02:25,700
+e a resposta para todos
+os problemas dos idosos!
+
+39
+00:02:28,710 --> 00:02:30,080
+A solução está...
+
+40
+00:02:30,080 --> 00:02:31,210
+Aqui!
+
+41
+00:02:31,210 --> 00:02:35,210
+Diretor Chefe
+
+42
+00:02:31,210 --> 00:02:35,210
+HIROYUKI KITAKUBO
+
+43
+00:02:42,640 --> 00:02:44,720
+ROU
+
+44
+00:02:46,810 --> 00:02:48,390
+JIN
+
+45
+00:02:50,520 --> 00:02:53,230
+Z
+
+46
+00:02:57,070 --> 00:03:15,250
+ROUJIN Z
+
+47
+00:03:01,240 --> 00:03:15,250
+Caligrafia de
+KATSUHIRO OTOMO
+
+48
+00:03:20,260 --> 00:03:23,760
+Essa luta é unilateral!
+
+49
+00:03:33,600 --> 00:03:35,690
+Você não pode fazer isso, Sr. Takazawa.
+
+50
+00:03:35,690 --> 00:03:39,530
+Você não pode usar o pingente
+de alerta só porque se molhou.
+
+51
+00:03:40,950 --> 00:03:44,030
+Dr. Misaka estava
+realmente chateado...
+
+52
+00:03:44,030 --> 00:03:47,540
+quando você o empurrou no meio
+da noite na semana passada.
+
+53
+00:03:58,710 --> 00:04:00,380
+Saia de cima dele!
+
+54
+00:04:01,010 --> 00:04:06,970
+Você só deve usar o pingente
+em caso de emergência!
+
+55
+00:04:13,230 --> 00:04:15,730
+Isso parece próximo.
+
+56
+00:04:27,530 --> 00:04:28,240
+Eu estou indo!
+
+57
+00:04:31,000 --> 00:04:31,830
+Chegando!
+
+58
+00:04:35,420 --> 00:04:36,500
+Eu...
+
+59
+00:04:39,130 --> 00:04:40,550
+Este é o homem.
+
+60
+00:04:40,550 --> 00:04:43,300
+Sr. Takazawa!
+Você o empurrou de novo!
+
+61
+00:04:43,300 --> 00:04:44,680
+Quem é você?
+
+62
+00:04:44,680 --> 00:04:47,970
+Sou Haruko Mihashi,
+estudante de enfermagem.
+
+63
+00:04:47,970 --> 00:04:49,810
+Eu sou sua enfermeira voluntária.
+
+64
+00:04:49,810 --> 00:04:52,430
+Ele usou o pingente
+de novo, não foi?
+
+65
+00:04:52,430 --> 00:04:54,100
+Eu continuo dizendo a ele.
+
+66
+00:04:54,100 --> 00:04:56,100
+Sr. Kijuro Takazawa...
+
+67
+00:04:56,100 --> 00:04:58,060
+você vem conosco.
+
+68
+00:04:59,730 --> 00:05:02,070
+O que está acontecendo?
+
+69
+00:05:02,070 --> 00:05:04,650
+Ele vai nos ajudar.
+
+70
+00:05:04,650 --> 00:05:07,660
+Estamos com o Ministério
+do Bem-Estar Público.
+
+71
+00:05:07,660 --> 00:05:09,580
+Ministério do Bem-Estar Público?
+
+72
+00:05:09,910 --> 00:05:11,910
+Sua família concedeu permissão.
+
+73
+00:05:11,910 --> 00:05:14,210
+Haruko!
+
+74
+00:05:14,210 --> 00:05:15,410
+Sr. Takazawa!
+
+75
+00:05:20,380 --> 00:05:24,550
+Desculpe-me, mas onde
+você está levando ele?
+
+76
+00:05:24,550 --> 00:05:31,220
+<i>Haru Takazawa</i>
+
+77
+00:05:39,730 --> 00:05:44,320
+...e é assim que o corpo absorve
+os nutrientes dos alimentos.
+
+78
+00:05:44,320 --> 00:05:48,660
+Todo esse processo
+leva cerca de 24 horas.
+
+79
+00:05:48,660 --> 00:05:51,780
+Então a comida é
+excretada como lixo.
+
+80
+00:05:54,290 --> 00:05:57,500
+Na próxima semana,
+vamos pegar com o ânus.
+
+81
+00:06:04,760 --> 00:06:06,840
+Haruko!
+
+82
+00:06:06,840 --> 00:06:10,010
+Finalmente consegui
+ingressos para o Ink Stick!
+
+83
+00:06:10,010 --> 00:06:11,720
+Vamos!
+
+84
+00:06:11,720 --> 00:06:12,430
+Você ouviu?
+
+85
+00:06:12,430 --> 00:06:13,930
+O quê?
+
+86
+00:06:13,930 --> 00:06:19,560
+O Dr. Tachibana recebeu uma carta
+do Ministério do Bem-Estar Público.
+
+87
+00:06:19,560 --> 00:06:21,810
+O Ministério?
+
+88
+00:06:21,810 --> 00:06:24,940
+Eles fizeram uma inovação em
+equipamentos de enfermagem.
+
+89
+00:06:24,940 --> 00:06:27,700
+Eles vão testá-lo
+em Kijuro Takazawa!
+
+90
+00:06:28,530 --> 00:06:33,240
+Essa banda é quente!
+O show deles será gravado ao vivo!
+
+91
+00:06:33,240 --> 00:06:36,080
+Que tipo de equipamento
+de enfermagem?
+
+92
+00:06:36,080 --> 00:06:38,330
+Não sei.
+
+93
+00:06:38,330 --> 00:06:42,920
+A coletiva de imprensa é hoje
+às três no centro de bem-estar.
+
+94
+00:06:42,920 --> 00:06:44,090
+Três horas?
+
+95
+00:06:45,500 --> 00:06:46,920
+Já são quase três!
+
+96
+00:07:04,650 --> 00:07:09,610
+Nossa sociedade está sendo
+esmagada por um problema crescente.
+
+97
+00:07:09,610 --> 00:07:11,610
+O problema dos idosos.
+
+98
+00:07:11,610 --> 00:07:17,580
+Até onde estamos dispostos a ir para
+preservar os anciãos de nossa nação?
+
+99
+00:07:17,580 --> 00:07:21,750
+Para onde quer que nos voltemos,
+há escolhas dolorosas a serem feitas.
+
+100
+00:07:21,750 --> 00:07:24,340
+Mas agora uma resposta grita:
+
+101
+00:07:24,340 --> 00:07:28,090
+O Z-001!
+
+102
+00:07:28,090 --> 00:07:33,720
+É uma adição inestimável
+para qualquer hospital...
+
+103
+00:07:33,720 --> 00:07:39,600
+no entanto, esta nova
+invenção será muito útil em casa.
+
+104
+00:07:39,600 --> 00:07:41,020
+Vejam por si mesmos.
+
+105
+00:07:51,490 --> 00:07:56,700
+Um banho ultrassônico limpará
+todos os poros do corpo do paciente!
+
+106
+00:08:00,540 --> 00:08:04,750
+O horário do banho
+pode ser pré-programado.
+
+107
+00:08:04,750 --> 00:08:08,090
+A cama sente umidade
+e transpiração...
+
+108
+00:08:08,090 --> 00:08:12,050
+e ajustará a temperatura
+e a freqüência dos banhos.
+
+109
+00:08:19,060 --> 00:08:20,180
+Excreção!
+
+110
+00:08:20,180 --> 00:08:25,650
+O problema mais embaraçoso
+de uma pessoa idosa!
+
+111
+00:08:25,650 --> 00:08:29,270
+Este problema aterroriza até
+mesmo a família mais dedicada.
+
+112
+00:08:29,270 --> 00:08:32,240
+Mas nossa máquina
+eliminou o problema!
+
+113
+00:08:32,240 --> 00:08:34,820
+Se o sistema detectar
+um leve odor...
+
+114
+00:08:34,820 --> 00:08:40,490
+uma extensão aspira automaticamente
+os resíduos do paciente.
+
+115
+00:08:40,490 --> 00:08:45,540
+A crise termina antes que
+um inválido possa pedir ajuda.
+
+116
+00:08:45,540 --> 00:08:49,500
+A dignidade é mantida.
+Sem bagunça, sem constrangimento.
+
+117
+00:08:50,380 --> 00:08:54,680
+Os acamados muitas vezes têm
+um excesso de tempo de lazer.
+
+118
+00:08:54,680 --> 00:08:58,140
+Então, naturalmente, nossa máquina
+oferece amplo entretenimento.
+
+119
+00:08:58,640 --> 00:09:03,270
+A cama inclui estéreo hi-fi,
+rádio, TV e módulos de telefone.
+
+120
+00:09:03,270 --> 00:09:05,640
+Os pacientes podem
+comprar ou vender ações.
+
+121
+00:09:05,640 --> 00:09:08,560
+Eles podem assistir a corridas
+ou acompanhar esportes.
+
+122
+00:09:08,980 --> 00:09:12,190
+Eles podem até fazer
+compras em todo o mundo!
+
+123
+00:09:12,190 --> 00:09:16,200
+Existem programas para
+xadrez, Go, Othello e video-games.
+
+124
+00:09:16,200 --> 00:09:19,660
+Um processador de texto
+ajuda a escrever haicai e poesia.
+
+125
+00:09:19,660 --> 00:09:24,460
+Um paciente pode até chamar seus
+amigos em suas próprias camas Z-001.
+
+126
+00:09:24,460 --> 00:09:28,500
+Um paciente pode conversar com
+até quatro amigos simultaneamente!
+
+127
+00:09:28,500 --> 00:09:33,710
+E se não houver amigos, basta
+inserir uma imagem e personalidade.
+
+128
+00:09:33,710 --> 00:09:36,760
+O computador fornecerá um
+parceiro de conversa simulado.
+
+129
+00:09:39,340 --> 00:09:42,810
+Mas há mais!
+Uma estação de alimentação embutida!
+
+130
+00:09:48,310 --> 00:09:53,440
+O Z-001 armazena comida por
+uma semana, incluindo sobremesa.
+
+131
+00:09:53,440 --> 00:09:59,070
+Os pacientes podem
+baixar suas receitas favoritas.
+
+132
+00:10:03,620 --> 00:10:07,410
+E depois de comer, o que poderia ser
+melhor do que um pouco de exercício?
+
+133
+00:10:07,410 --> 00:10:09,830
+Tudo sem sair do conforto
+da sua própria cama.
+
+134
+00:10:13,550 --> 00:10:16,260
+É importante alongar primeiro,
+principalmente as costas.
+
+135
+00:10:16,880 --> 00:10:19,340
+Os pacientes podem andar ou remar.
+
+136
+00:10:19,340 --> 00:10:24,100
+Eles podem até nadar
+na água do banho.
+
+137
+00:10:30,690 --> 00:10:37,240
+Mas isso não é tudo. O Z-001 é
+uma estação de análise perfeita.
+
+138
+00:10:37,490 --> 00:10:45,200
+Ele monitora a pressão arterial,
+respiração, freqüência cardíaca e EEG.
+
+139
+00:10:45,200 --> 00:10:49,040
+E se algum desses sinais
+vitais se tornar anormal...
+
+140
+00:10:49,040 --> 00:10:52,920
+o computador pode fornecer
+um diagnóstico instantâneo.
+
+141
+00:10:52,920 --> 00:10:56,130
+Se um histórico médico foi inserido...
+
+142
+00:10:56,130 --> 00:11:01,510
+a cama pode até prescrever
+um tratamento como oxigênio.
+
+143
+00:11:01,510 --> 00:11:04,600
+Ou se a situação for mais grave...
+
+144
+00:11:04,600 --> 00:11:07,520
+a cama se conectará
+à rede de dados local.
+
+145
+00:11:07,520 --> 00:11:10,560
+A cama pode enviar uma chamada...
+
+146
+00:11:10,560 --> 00:11:13,980
+alertar o médico de família,
+hospital ou outras instituições.
+
+147
+00:11:16,860 --> 00:11:19,320
+Ela pode até lidar
+com desastres...
+
+148
+00:11:19,320 --> 00:11:25,830
+como um terremoto,
+tufão ou roubo!
+
+149
+00:11:27,540 --> 00:11:29,910
+Mas isso significa...!
+
+150
+00:11:29,910 --> 00:11:33,790
+Exatamente!
+Um computador de sexta geração!
+
+151
+00:11:35,790 --> 00:11:39,210
+Possui recursos de
+auto-aprimoramento.
+
+152
+00:11:39,210 --> 00:11:43,510
+Ele excede as habilidades de
+aprendizado dos sistemas de quinta geração.
+
+153
+00:11:43,510 --> 00:11:46,100
+Ele pode até atualizar
+seu próprio hardware.
+
+154
+00:11:46,100 --> 00:11:48,430
+É realmente um computador dos sonhos.
+
+155
+00:11:48,770 --> 00:11:52,940
+Com licença!
+O que o capacita?
+
+156
+00:11:53,350 --> 00:11:56,860
+Poder nuclear!
+Uma fornalha atômica em miniatura!
+
+157
+00:11:56,860 --> 00:11:59,940
+E se houver um vazamento de radiação?
+
+158
+00:11:59,940 --> 00:12:05,740
+Não se preocupe, há um
+alarme supersensível integrado.
+
+159
+00:12:05,740 --> 00:12:07,830
+É completamente seguro.
+
+160
+00:12:07,830 --> 00:12:10,000
+Realmente é seguro, não é?
+
+161
+00:12:10,000 --> 00:12:11,790
+Espere um minuto!
+
+162
+00:12:13,960 --> 00:12:16,670
+Tenho certeza que é uma
+máquina maravilhosa...
+
+163
+00:12:16,670 --> 00:12:19,500
+mas olhe para o Sr.
+Takazawa apenas deitado lá.
+
+164
+00:12:20,460 --> 00:12:22,590
+Sinto muito por ele.
+
+165
+00:12:22,590 --> 00:12:27,470
+Como uma máquina pode dar
+a ele o amor de que ele precisa?
+
+166
+00:12:28,010 --> 00:12:30,220
+Eu lembro de você.
+
+167
+00:12:30,720 --> 00:12:33,480
+Eu sou do Sr. Takazawa...
+
+168
+00:12:33,480 --> 00:12:37,480
+Você está certa! Nada pode
+substituir o amor de uma família.
+
+169
+00:12:37,480 --> 00:12:40,650
+Mas podemos ajudar essa
+família tanto quanto possível.
+
+170
+00:12:41,070 --> 00:12:44,570
+Queremos dar aos idosos
+uma vida rica e plena!
+
+171
+00:12:44,570 --> 00:12:46,910
+Esse é o nosso sonho.
+
+172
+00:12:46,910 --> 00:12:52,250
+É por isso que nós do
+Ministério do Bem-Estar Público...
+
+173
+00:12:52,620 --> 00:12:55,040
+apresento
+carinhosamente o Z-001!
+
+174
+00:13:00,960 --> 00:13:02,170
+Terada!
+
+175
+00:13:04,050 --> 00:13:05,380
+Huh? O quê?
+
+176
+00:13:05,380 --> 00:13:07,180
+O Secretário do
+Bem-Estar Público está aqui!
+
+177
+00:13:54,220 --> 00:13:57,640
+A geriatria certamente
+percorreu um longo caminho.
+
+178
+00:13:57,640 --> 00:14:00,940
+Mas eles não deveriam
+despejar pessoas em máquinas.
+
+179
+00:14:00,940 --> 00:14:03,400
+Isso apenas esconde o problema.
+
+180
+00:14:03,400 --> 00:14:06,490
+Sim, não parece certo.
+
+181
+00:14:07,450 --> 00:14:13,200
+Mas não deveríamos ter que
+dedicar toda a nossa vida aos idosos.
+
+182
+00:14:13,200 --> 00:14:15,580
+Os velhotes provavelmente concordam.
+
+183
+00:14:15,580 --> 00:14:17,580
+Você é tão egoísta!
+
+184
+00:14:17,580 --> 00:14:21,250
+A vida é mais do que
+apenas deitar na cama.
+
+185
+00:14:21,250 --> 00:14:23,000
+Haruko!
+
+186
+00:14:23,000 --> 00:14:25,550
+Como foi o anúncio?
+
+187
+00:14:25,550 --> 00:14:29,680
+Pare com isso! O sujeito
+experimental era o paciente de Haruko.
+
+188
+00:14:29,680 --> 00:14:32,550
+Isso deve ter sido um choque.
+
+189
+00:14:40,400 --> 00:14:42,360
+No meu computador?
+
+190
+00:14:52,490 --> 00:14:54,990
+Achei que você
+tinha deixado ligado.
+
+191
+00:14:55,370 --> 00:14:57,370
+Mas está em todos os canais.
+
+192
+00:15:04,460 --> 00:15:09,220
+É uma mensagem de alguém,
+mas que maneira de enviá-la!
+
+193
+00:15:09,220 --> 00:15:11,930
+Acho que você entendeu
+a mensagem, certo?
+
+194
+00:15:11,930 --> 00:15:14,260
+Você está me dando arrepios.
+
+195
+00:15:16,770 --> 00:15:19,180
+Tenho que imprimir!
+
+196
+00:15:19,180 --> 00:15:20,890
+Eu vou pegar um cabo.
+
+197
+00:15:20,890 --> 00:15:22,190
+Por quê?
+
+198
+00:15:22,190 --> 00:15:23,610
+Apenas reunindo evidências.
+
+199
+00:15:51,340 --> 00:15:52,760
+Tomoe?
+
+200
+00:15:52,760 --> 00:15:54,800
+O que está acontecendo aqui?
+
+201
+00:16:06,610 --> 00:16:09,900
+O que aconteceu?
+Eles estão quebrados?
+
+202
+00:16:10,740 --> 00:16:12,150
+Eu não fiz isso!
+
+203
+00:16:12,150 --> 00:16:14,780
+Não seja tão defensiva!
+
+204
+00:16:16,700 --> 00:16:18,030
+Sr. Takazawa!
+
+205
+00:16:18,700 --> 00:16:25,670
+Ajude-me, Haruko
+Ajude-me, Haruko
+
+206
+00:16:27,340 --> 00:16:29,960
+Talvez você esteja certa,
+mas ainda assim...
+
+207
+00:16:29,960 --> 00:16:34,590
+Vamos pensar sobre isso antes
+de nos empolgarmos demais.
+
+208
+00:16:34,590 --> 00:16:38,390
+Que verme!
+Você está apenas com medo.
+
+209
+00:16:38,390 --> 00:16:44,190
+Certo. Recebemos um SOS,
+então estamos vindo para ajudar.
+
+210
+00:16:58,330 --> 00:17:00,040
+Preciso de uma luz aqui!
+
+211
+00:17:00,040 --> 00:17:01,160
+OK.
+
+212
+00:17:06,460 --> 00:17:08,670
+Descobriu?
+
+213
+00:17:08,670 --> 00:17:11,170
+Você está brincando?
+Olhe para esta coisa!
+
+214
+00:17:13,050 --> 00:17:17,590
+Venha, vamos.
+E se formos pegos?
+
+215
+00:17:17,590 --> 00:17:21,180
+Você é tão covarde!
+
+216
+00:17:21,560 --> 00:17:23,770
+Qual é o problema?
+
+217
+00:17:23,770 --> 00:17:26,650
+Ele é apenas um velho!
+
+218
+00:17:27,520 --> 00:17:29,190
+Eu não posso abandoná-lo!
+
+219
+00:17:30,150 --> 00:17:33,190
+Afinal, temos um dever solene...
+
+220
+00:17:34,280 --> 00:17:36,200
+como voluntários de enfermagem!
+
+221
+00:17:42,040 --> 00:17:44,410
+Haruko, não é?
+
+222
+00:17:46,290 --> 00:17:48,460
+O que você está fazendo aqui?
+
+223
+00:17:48,460 --> 00:17:53,420
+Esta é uma instalação do
+governo. Está fechada ao público.
+
+224
+00:17:53,420 --> 00:17:56,550
+O Sr. Takazawa
+estava pedindo ajuda.
+
+225
+00:17:56,550 --> 00:17:57,680
+Pedindo ajuda?
+
+226
+00:17:58,800 --> 00:18:02,470
+Ele enviou uma mensagem
+para o meu computador esta tarde.
+
+227
+00:18:07,270 --> 00:18:08,560
+Saiam daí.
+
+228
+00:18:15,990 --> 00:18:19,410
+Há evidência de uma
+mensagem sendo transmitida.
+
+229
+00:18:21,240 --> 00:18:23,120
+Obrigado!
+
+230
+00:18:23,120 --> 00:18:27,000
+Agora que você nos informou,
+podemos resolver o problema!
+
+231
+00:18:27,660 --> 00:18:29,920
+Excelente trabalho!
+
+232
+00:18:30,630 --> 00:18:31,670
+Realmente?
+
+233
+00:18:31,670 --> 00:18:34,250
+Haruko, isso é ótimo!
+
+234
+00:18:35,210 --> 00:18:39,630
+Graças a Deus! Eu estava
+com medo de sermos presos!
+
+235
+00:18:39,630 --> 00:18:41,340
+Mas e o Sr. Takazawa?
+
+236
+00:18:41,340 --> 00:18:43,680
+Ele vai ficar bem agora.
+Hasegawa!
+
+237
+00:18:43,890 --> 00:18:46,310
+Vou chamar o médico supervisor.
+
+238
+00:18:47,520 --> 00:18:48,730
+Aqui é Hasegawa...
+
+239
+00:18:48,730 --> 00:18:51,310
+Haruko, vamos para casa.
+
+240
+00:18:51,310 --> 00:18:53,020
+Satisfeita?
+
+241
+00:18:53,020 --> 00:18:54,770
+Eles cuidarão disso.
+
+242
+00:18:54,770 --> 00:18:58,950
+Isso vai demorar um pouco,
+então você pode ir para casa.
+
+243
+00:18:58,950 --> 00:19:01,410
+Vou acompanhá-la até a porta.
+
+244
+00:19:01,870 --> 00:19:05,580
+Sim, isso está certo.
+
+245
+00:19:05,580 --> 00:19:10,500
+Haruko...
+
+246
+00:19:12,170 --> 00:19:14,460
+Me ajude!
+
+247
+00:19:14,460 --> 00:19:16,090
+O que está acontecendo?
+
+248
+00:19:16,090 --> 00:19:19,720
+Mas desliguei os circuitos
+de cálculo autônomo.
+
+249
+00:19:19,720 --> 00:19:21,590
+Sr. Takazawa!
+
+250
+00:19:24,760 --> 00:19:25,680
+Sua idiota!
+
+251
+00:19:25,680 --> 00:19:26,720
+Haruko!
+
+252
+00:19:27,390 --> 00:19:30,060
+O Sr. Takazawa
+está pedindo ajuda!
+
+253
+00:19:30,060 --> 00:19:31,390
+Você não pode fazer isso!
+
+254
+00:19:31,730 --> 00:19:36,820
+Sondas estão conectadas em
+sua traquéia e sistema nervoso.
+
+255
+00:19:36,820 --> 00:19:39,070
+Retirá-lo pode matá-lo!
+
+256
+00:19:39,070 --> 00:19:40,900
+Isso é terrível!
+
+257
+00:19:41,910 --> 00:19:43,910
+Temos a permissão
+da família dele.
+
+258
+00:19:43,910 --> 00:19:47,290
+Você tem permissão dele?
+
+259
+00:19:47,290 --> 00:19:49,580
+Vou ligar para o líder do projeto.
+
+260
+00:19:49,580 --> 00:19:50,330
+Demônio!
+
+261
+00:19:50,330 --> 00:19:51,040
+Monstro!
+
+262
+00:19:51,040 --> 00:19:52,210
+Abusador de idosos!
+
+263
+00:19:52,210 --> 00:19:54,290
+Deixe ele ir!
+
+264
+00:19:54,290 --> 00:20:00,010
+Saiam daqui!
+Vocês crianças não sabem de nada!
+
+265
+00:20:05,220 --> 00:20:08,680
+Sim, mande a polícia, por favor.
+
+266
+00:20:12,810 --> 00:20:14,230
+Sr. Terada!
+
+267
+00:20:17,360 --> 00:20:21,070
+Haruko.
+
+268
+00:20:21,070 --> 00:20:23,240
+Vamos para casa.
+
+269
+00:20:23,240 --> 00:20:25,780
+Sim, vamos para casa.
+
+270
+00:20:29,200 --> 00:20:30,540
+Para!
+
+271
+00:20:38,000 --> 00:20:39,300
+Sr. Terada!
+
+272
+00:20:47,100 --> 00:20:49,010
+Não vai caber!
+
+273
+00:20:56,020 --> 00:20:57,690
+Seus idiotas!
+
+274
+00:20:58,270 --> 00:21:03,820
+Essa cama é grande demais para qualquer
+coisa que não seja um elevador de carga.
+
+275
+00:21:08,780 --> 00:21:09,450
+Vamos.
+
+276
+00:21:20,250 --> 00:21:23,090
+Ei, espere! Abra! Haruko!
+
+277
+00:21:28,470 --> 00:21:30,220
+Você viu aquilo?
+
+278
+00:21:37,400 --> 00:21:40,190
+O que vamos fazer com ele?
+
+279
+00:21:40,190 --> 00:21:43,610
+Temos que levar essa
+história para a mídia!
+
+280
+00:21:44,740 --> 00:21:49,410
+Haru, vamos para casa.
+
+281
+00:21:50,740 --> 00:21:53,500
+Sim, aqui é Terada.
+Passe-me o secretário Minagawa.
+
+282
+00:21:54,000 --> 00:21:58,250
+Lamento incomodá-lo
+no meio da noite...
+
+283
+00:22:09,430 --> 00:22:12,140
+Haruko, a cama está subindo...
+
+284
+00:22:16,060 --> 00:22:18,190
+Quieto!
+
+285
+00:22:22,360 --> 00:22:24,030
+Estou em casa.
+
+286
+00:22:24,030 --> 00:22:25,240
+Sr. Takazawa!
+
+287
+00:22:25,240 --> 00:22:29,860
+Não podemos ficar. Só vim
+pegar a foto da sua esposa.
+
+288
+00:22:33,580 --> 00:22:35,080
+A polícia!
+
+289
+00:22:38,670 --> 00:22:40,330
+O que está acontecendo?
+
+290
+00:22:40,330 --> 00:22:41,080
+Saia do caminho!
+
+291
+00:22:45,840 --> 00:22:47,340
+Aquele rato!
+
+292
+00:22:48,930 --> 00:22:50,390
+Aquele cara também está aqui.
+
+293
+00:22:50,390 --> 00:22:51,890
+Terada?
+
+294
+00:22:53,560 --> 00:22:57,310
+Eles vão nos prender!
+
+295
+00:22:57,310 --> 00:23:00,730
+Talvez eles peguem leve
+conosco se nos rendermos!
+
+296
+00:23:00,730 --> 00:23:02,310
+Você vê alguma equipe de TV?
+
+297
+00:23:02,730 --> 00:23:05,650
+TV? Minha mãe vai descobrir!
+
+298
+00:23:05,650 --> 00:23:09,400
+Tenho que contar a eles sobre
+a cama antes de sermos presos!
+
+299
+00:23:19,370 --> 00:23:20,790
+Pare com isso!
+
+300
+00:23:21,370 --> 00:23:24,630
+Preciso mostrar
+às equipes de TV...
+
+301
+00:23:24,630 --> 00:23:27,090
+O que você vai dizer a eles?
+
+302
+00:23:27,090 --> 00:23:29,880
+Você ia dar os nomes
+dos seus amigos?
+
+303
+00:23:29,880 --> 00:23:33,140
+Não mesmo!
+Eu não estou com eles!
+
+304
+00:23:33,140 --> 00:23:34,800
+Ai!
+
+305
+00:23:33,600 --> 00:23:34,800
+<i>Pare de empurrar!</i>
+
+306
+00:23:34,800 --> 00:23:36,310
+Sr. Takazawa!
+
+307
+00:23:41,640 --> 00:23:43,310
+Hasegawa!
+
+308
+00:23:50,320 --> 00:23:51,610
+Levanta.
+
+309
+00:24:10,840 --> 00:24:14,140
+Eu não posso começar a
+expressar o quão desapontado estou.
+
+310
+00:24:14,140 --> 00:24:17,350
+Estávamos todos muito
+orgulhosos deste projeto.
+
+311
+00:24:17,350 --> 00:24:22,310
+Espero que você assuma total
+responsabilidade por isso, Terada.
+
+312
+00:24:22,310 --> 00:24:23,850
+Sinto muito.
+
+313
+00:24:23,850 --> 00:24:29,530
+Mas havia mais nisso do que
+apenas inserir dados incorretos.
+
+314
+00:24:31,240 --> 00:24:36,490
+Onde nas plantas menciona
+uma cama transformadora?
+
+315
+00:24:36,490 --> 00:24:40,540
+Esse era um recurso em
+caso de desastre natural.
+
+316
+00:24:40,910 --> 00:24:46,040
+Não fomos devidamente informados
+sobre este novo computador.
+
+317
+00:24:47,880 --> 00:24:50,380
+Para onde foi a caixa preta?
+
+318
+00:24:50,380 --> 00:24:55,300
+Onde conseguimos dinheiro para
+um computador de sexta geração?
+
+319
+00:24:55,300 --> 00:24:59,350
+O computador foi doado
+pela Nishibashi Corporation.
+
+320
+00:24:59,350 --> 00:25:05,440
+Como podemos avaliar uma
+máquina que nem sequer entendemos?
+
+321
+00:25:07,310 --> 00:25:12,150
+Nunca recebemos leituras
+completas do computador.
+
+322
+00:25:14,530 --> 00:25:17,410
+Isso é verdade? Hasegawa?
+
+323
+00:25:18,740 --> 00:25:19,910
+Hasegawa!
+
+324
+00:25:22,580 --> 00:25:23,750
+Caramba!
+
+325
+00:25:24,120 --> 00:25:26,460
+Não mexa com o Ministério
+do Bem-Estar Público!
+
+326
+00:25:27,290 --> 00:25:29,670
+Posso usar seu telefone?
+
+327
+00:25:30,590 --> 00:25:33,420
+Aqui é Hasegawa. Sim.
+
+328
+00:25:35,470 --> 00:25:37,180
+Só um segundo.
+
+329
+00:25:40,510 --> 00:25:43,930
+Aqui é Minagawa.
+
+330
+00:25:43,930 --> 00:25:46,890
+Sim. Aqui é Minagawa. O quê?
+
+331
+00:25:49,150 --> 00:25:53,740
+Sim, senhor! De jeito nenhum.
+Não, senhor.
+
+332
+00:25:53,740 --> 00:25:57,700
+Sinto muito, senhor.
+Eu não sabia.
+
+333
+00:26:38,150 --> 00:26:40,070
+Querido!
+
+334
+00:26:46,040 --> 00:26:48,960
+Haru...
+
+335
+00:26:53,960 --> 00:26:57,050
+Por enquanto, você fará todo o
+seu trabalho aqui na enfermaria.
+
+336
+00:26:58,050 --> 00:27:01,680
+Você está saindo muito leve.
+
+337
+00:27:01,680 --> 00:27:02,720
+Sim, senhor.
+
+338
+00:27:04,140 --> 00:27:06,350
+Bem, você tem trabalho a fazer.
+
+339
+00:27:06,350 --> 00:27:07,730
+Sim, senhor.
+
+340
+00:27:20,110 --> 00:27:21,910
+Três horas inteiras!
+
+341
+00:27:22,370 --> 00:27:25,870
+O professor gritou conosco
+por três horas inteiras!
+
+342
+00:27:26,080 --> 00:27:29,870
+Foi terrível.
+Ele continuou nos culpando!
+
+343
+00:27:30,250 --> 00:27:35,290
+Pelo menos acabou.
+Ninguém foi expulso ou preso.
+
+344
+00:27:35,290 --> 00:27:38,380
+Vamos esquecer isso.
+
+345
+00:27:39,590 --> 00:27:44,390
+Haruko, você ainda
+está preocupada com ele?
+
+346
+00:27:44,850 --> 00:27:47,810
+Não há mais nada
+que possamos fazer.
+
+347
+00:27:47,810 --> 00:27:50,390
+Espero que isso não
+apareça em nossas notas.
+
+348
+00:27:51,190 --> 00:27:57,360
+Recebemos um SOS e
+fizemos tudo o que podíamos.
+
+349
+00:27:57,360 --> 00:28:00,820
+Eles prometeram consertar a cama.
+
+350
+00:28:00,820 --> 00:28:04,530
+Além disso, há muitos outros
+velhos que se parecem com ele.
+
+351
+00:28:04,530 --> 00:28:09,120
+É que ele sempre
+foi meu paciente...
+
+352
+00:28:09,120 --> 00:28:11,250
+desde que me ofereci pela primeira vez.
+
+353
+00:28:11,250 --> 00:28:12,460
+Você é muito apegada a ele.
+
+354
+00:28:12,460 --> 00:28:13,920
+Ei, você!
+
+355
+00:28:14,420 --> 00:28:16,590
+Nada de falar nos corredores!
+
+356
+00:28:16,880 --> 00:28:18,090
+Sim, sim.
+
+357
+00:28:18,090 --> 00:28:20,210
+Eu ainda tenho trabalho a fazer.
+
+358
+00:28:20,210 --> 00:28:22,340
+Você não vem ao bar conosco?
+
+359
+00:28:22,340 --> 00:28:25,260
+Estaremos no Western Family.
+
+360
+00:28:25,260 --> 00:28:28,600
+Vejo você lá!
+
+361
+00:28:58,340 --> 00:29:01,510
+Tudo bem! Estou dentro!
+
+362
+00:29:06,300 --> 00:29:09,760
+Que senha estúpida!
+
+363
+00:29:09,760 --> 00:29:15,020
+Com meu programa ALGOL,
+era como tirar doce de um bebê.
+
+364
+00:29:17,650 --> 00:29:20,360
+Ei, senhorita! Você viu isso?
+
+365
+00:29:20,360 --> 00:29:21,320
+É um jogo?
+
+366
+00:29:21,650 --> 00:29:25,570
+Acabei de invadir a Tyrell
+Corporation na América.
+
+367
+00:29:25,570 --> 00:29:28,530
+Encontrei evidências
+de evasão fiscal.
+
+368
+00:29:30,370 --> 00:29:32,330
+Evasão fiscal?
+
+369
+00:29:32,540 --> 00:29:37,960
+Vamos enviar anonimamente
+esses dados para um jornal.
+
+370
+00:29:37,960 --> 00:29:40,920
+Claro, é legalmente inadmissível.
+
+371
+00:29:40,920 --> 00:29:44,340
+Ainda assim, aposto que os
+jornais vão se interessar por isso.
+
+372
+00:29:45,220 --> 00:29:50,260
+Quebrar um sistema
+é uma correria!
+
+373
+00:29:50,260 --> 00:29:54,770
+Meu torcicolo se foi e estou
+com uma ereção enorme!
+
+374
+00:29:54,770 --> 00:29:57,940
+Seu velho pervertido!
+
+375
+00:29:59,650 --> 00:30:02,940
+Você está falando sério?
+
+376
+00:30:03,650 --> 00:30:07,860
+Pode apostar que eu estou!
+Quer ver?
+
+377
+00:30:08,450 --> 00:30:10,570
+Não, não Isso!
+
+378
+00:30:10,570 --> 00:30:13,490
+Estou falando do computador!
+
+379
+00:30:13,490 --> 00:30:18,620
+Você está me
+chamando de mentiroso?
+
+380
+00:30:18,620 --> 00:30:20,330
+Então é verdade?
+
+381
+00:30:20,710 --> 00:30:25,720
+Claro. Eu sou o melhor
+hacker deste lado de Hakone.
+
+382
+00:30:25,720 --> 00:30:28,630
+Isso é porque
+você não pode sair.
+
+383
+00:30:30,680 --> 00:30:33,430
+Tenho um enorme
+favor para lhe pedir.
+
+384
+00:30:37,310 --> 00:30:39,230
+Para o próximo o bar!
+
+385
+00:30:39,230 --> 00:30:42,230
+<i>Western Family</i>
+
+386
+00:30:42,940 --> 00:30:44,570
+Aqui estão suas bebidas.
+
+387
+00:30:44,570 --> 00:30:46,030
+Já está chegando!
+
+388
+00:30:46,030 --> 00:30:47,360
+Garçom!
+
+389
+00:30:51,740 --> 00:30:57,750
+Por que ela continua falando
+sobre aquele velho estúpido?
+
+390
+00:30:58,870 --> 00:31:02,290
+Ela terminou com você, não foi?
+
+391
+00:31:03,290 --> 00:31:04,500
+Cale-se.
+
+392
+00:31:08,010 --> 00:31:10,470
+A avó de Haruko...
+
+393
+00:31:10,470 --> 00:31:12,390
+Você é a vovó!
+
+394
+00:31:12,390 --> 00:31:16,810
+Na oitava série, os pais de Haruko
+deram a ela uma sala de estudos.
+
+395
+00:31:16,810 --> 00:31:20,100
+Eles deram a Haruko o
+antigo quarto de sua avó.
+
+396
+00:31:20,480 --> 00:31:24,940
+Haruko ficou emocionada
+ao conseguir o quarto.
+
+397
+00:31:24,940 --> 00:31:26,730
+Mas então sua avó morreu...
+
+398
+00:31:27,730 --> 00:31:29,780
+sozinha e sem amor
+em uma casa de repouso.
+
+399
+00:31:31,360 --> 00:31:33,620
+Ei, vocês!
+
+400
+00:31:33,620 --> 00:31:36,620
+Chega de histórias tristes!
+
+401
+00:31:36,950 --> 00:31:38,580
+Vá cantar!
+
+402
+00:31:38,580 --> 00:31:40,120
+Você está bem?
+
+403
+00:31:40,120 --> 00:31:41,710
+Vamos, Nobuko!
+
+404
+00:31:41,710 --> 00:31:43,630
+Vamos, Nobuko, experimente!
+
+405
+00:31:44,080 --> 00:31:47,050
+Acho que preciso.
+
+406
+00:31:52,010 --> 00:31:55,640
+Garçom! Eu quero um
+pouco de cavala e uma cerveja!
+
+407
+00:31:55,640 --> 00:31:57,220
+Agora mesmo!
+
+408
+00:31:57,220 --> 00:32:00,930
+O mundo é um lugar tão solitário.
+
+409
+00:32:00,930 --> 00:32:05,610
+Por que você está tão triste, Maeda?
+
+410
+00:32:28,420 --> 00:32:30,260
+Isso é difícil.
+
+411
+00:32:34,890 --> 00:32:37,640
+Tudo bem, um desafio!
+
+412
+00:32:37,640 --> 00:32:41,520
+Deixa-me ajudar.
+
+413
+00:32:43,230 --> 00:32:48,110
+Certo. Isso aceleraria as coisas
+se trabalhássemos em paralelo.
+
+414
+00:32:48,110 --> 00:32:52,740
+Obrigada. Estou muito
+preocupada com o Sr. Takazawa.
+
+415
+00:32:52,740 --> 00:32:56,820
+Se eu pudesse falar com ele,
+poderia descobrir se ele está bem.
+
+416
+00:32:56,820 --> 00:33:00,580
+Você deve estar ansioso
+para conhecer esse velhote!
+
+417
+00:33:00,580 --> 00:33:05,000
+Seu velho tolo! Não estou fazendo
+isso por aquela velha carcaça podre!
+
+418
+00:33:05,000 --> 00:33:09,130
+Eu sabia! Você quer a garota,
+seu pervertido!
+
+419
+00:33:09,130 --> 00:33:15,680
+Quero ver como é um
+computador de sexta geração.
+
+420
+00:33:44,410 --> 00:33:45,830
+Eu consegui.
+
+421
+00:33:45,830 --> 00:33:47,370
+Realmente?
+
+422
+00:33:52,300 --> 00:33:53,760
+Mas...
+
+423
+00:33:53,760 --> 00:33:55,010
+O que é?
+
+424
+00:33:55,590 --> 00:34:00,050
+Estou enviando sinais,
+mas não há resposta.
+
+425
+00:34:00,050 --> 00:34:01,720
+Parece morto.
+
+426
+00:34:02,470 --> 00:34:04,770
+O computador!
+
+427
+00:34:05,270 --> 00:34:09,350
+Nossos dados
+devem estar passando.
+
+428
+00:34:09,810 --> 00:34:12,400
+Talvez estejamos bloqueados.
+
+429
+00:34:14,360 --> 00:34:19,990
+Essa jovem diz
+que conhece o cara.
+
+430
+00:34:19,990 --> 00:34:22,740
+Tente ligar para ele.
+
+431
+00:34:23,410 --> 00:34:25,080
+Qual é o nome dele?
+
+432
+00:34:40,470 --> 00:34:46,560
+TA
+
+433
+00:34:42,140 --> 00:34:46,560
+KA
+
+434
+00:34:43,720 --> 00:34:46,560
+ZA
+
+435
+00:34:45,350 --> 00:34:46,560
+WA
+
+436
+00:34:47,180 --> 00:34:49,940
+Leva
+
+437
+00:34:47,600 --> 00:34:49,940
+nt
+
+438
+00:34:48,060 --> 00:34:49,940
+e-se!
+
+439
+00:34:48,690 --> 00:34:49,940
+Id
+
+440
+00:34:48,890 --> 00:34:49,940
+i
+
+441
+00:34:49,310 --> 00:34:49,940
+ota!!
+
+442
+00:34:54,020 --> 00:34:56,360
+Não adianta.
+
+443
+00:34:56,360 --> 00:35:00,910
+Deve haver uma senha.
+Teremos que encontrá-la.
+
+444
+00:35:03,410 --> 00:35:04,870
+Talvez...
+
+445
+00:35:04,870 --> 00:35:05,830
+O quê?
+
+446
+00:35:41,030 --> 00:35:43,910
+Você poderia duplicar
+a voz dessa pessoa?
+
+447
+00:35:55,500 --> 00:36:01,220
+Sr. Takazawa...
+
+448
+00:36:04,930 --> 00:36:05,970
+Sr. Takazawa...
+
+449
+00:36:11,310 --> 00:36:14,770
+<i>NÃO ENTRE</i>
+
+450
+00:36:21,820 --> 00:36:24,950
+Você está com dor?
+
+451
+00:36:25,700 --> 00:36:30,160
+É você! Você veio para mim!
+
+452
+00:36:30,160 --> 00:36:32,830
+Claro.
+
+453
+00:36:33,460 --> 00:36:36,590
+Quem é? Quem está aí?
+Esta área é restrita!
+
+454
+00:36:37,000 --> 00:36:42,090
+Você está bem?
+Você está com dor?
+
+455
+00:36:43,050 --> 00:36:46,220
+Isso dói!
+
+456
+00:36:46,220 --> 00:36:49,390
+Me ajude!
+
+457
+00:36:49,390 --> 00:36:53,270
+Seu pobre, pobre homem.
+
+458
+00:36:53,270 --> 00:36:56,610
+Eles têm sido tão cruéis com você!
+
+459
+00:36:57,810 --> 00:37:00,320
+Alguém ajude!
+
+460
+00:37:04,820 --> 00:37:09,370
+Apenas espere. Eu vou ajudá-lo.
+
+461
+00:37:10,910 --> 00:37:12,620
+Ele está com dor.
+
+462
+00:37:13,000 --> 00:37:15,710
+Temos que salvá-lo.
+
+463
+00:37:17,170 --> 00:37:22,090
+Aprendeu alguma coisa sobre o
+computador de sexta geração?
+
+464
+00:37:22,550 --> 00:37:24,300
+Isto é incrível!
+
+465
+00:37:24,550 --> 00:37:29,930
+Sim. Já vi arquitetura
+tridimensional antes.
+
+466
+00:37:29,930 --> 00:37:36,690
+Mas há algo completamente
+único no centro.
+
+467
+00:37:36,690 --> 00:37:39,650
+Deve ser um bio-computador.
+
+468
+00:37:39,650 --> 00:37:41,320
+Bio-computador?
+
+469
+00:37:41,980 --> 00:37:47,450
+É feito de bio-chips.
+Pequenas bolhas viscosas de matéria viva.
+
+470
+00:37:47,450 --> 00:37:50,160
+Ninguém no Japão
+sabe como fazê-los ainda.
+
+471
+00:37:50,160 --> 00:37:52,200
+Então isso foi construído...
+
+472
+00:37:52,200 --> 00:37:58,210
+Todos estão trabalhando nisso,
+mas o único sucesso foi no...
+
+473
+00:37:58,670 --> 00:38:00,040
+O Pentágono!
+
+474
+00:38:00,540 --> 00:38:03,090
+Os militares americanos!
+
+475
+00:38:03,960 --> 00:38:05,970
+Mas isso significa...
+
+476
+00:38:05,970 --> 00:38:09,220
+Espere! Vocês, crianças,
+sempre ficam meio despreparadas.
+
+477
+00:38:09,220 --> 00:38:13,470
+Conheça seu inimigo, conheça a si
+mesmo e vencerá todas as batalhas.
+
+478
+00:38:23,230 --> 00:38:24,030
+Sr. Terada!
+
+479
+00:38:24,400 --> 00:38:25,690
+Você está atrasado!
+
+480
+00:38:25,690 --> 00:38:28,860
+Sinto muito. E a cama?
+
+481
+00:38:28,860 --> 00:38:32,030
+Não sei. Descobriremos
+quando a virmos.
+
+482
+00:38:35,750 --> 00:38:39,330
+Todos vocês!
+Voltem para o trabalho!
+
+483
+00:38:55,850 --> 00:38:57,100
+O que está acontecendo?
+
+484
+00:39:05,400 --> 00:39:07,570
+Conseguimos levantar.
+
+485
+00:39:07,940 --> 00:39:11,070
+Que computador fascinante!
+
+486
+00:39:11,070 --> 00:39:13,280
+A velhice está cada vez melhor!
+
+487
+00:39:13,280 --> 00:39:15,240
+O que você está fazendo agora?
+
+488
+00:39:15,240 --> 00:39:19,370
+Uma vez que o bebê fica de pé,
+os pais podem fazê-lo andar.
+
+489
+00:39:52,280 --> 00:39:55,620
+O que está acontecendo?
+Pare com isso! Encontre o interruptor!
+
+490
+00:39:55,620 --> 00:39:57,040
+Impossível!
+
+491
+00:40:14,430 --> 00:40:16,930
+O que diabos está acontecendo?
+
+492
+00:40:44,710 --> 00:40:46,710
+É aquela garota!
+
+493
+00:40:46,920 --> 00:40:49,840
+Ela deve estar controlando!
+
+494
+00:40:50,460 --> 00:40:51,460
+Me siga!
+
+495
+00:40:55,800 --> 00:40:57,640
+Mãe, olha!
+
+496
+00:42:07,120 --> 00:42:08,540
+Parou.
+
+497
+00:42:08,540 --> 00:42:10,380
+Haruko!
+
+498
+00:42:10,380 --> 00:42:13,500
+O que você está fazendo aí?
+
+499
+00:42:13,500 --> 00:42:17,220
+Eu tenho que ir!
+Cuide das coisas aqui!
+
+500
+00:42:17,220 --> 00:42:18,550
+Haruko!
+
+501
+00:42:18,550 --> 00:42:21,260
+Para onde devemos ir, querido?
+
+502
+00:42:21,970 --> 00:42:24,770
+Para onde devemos ir, querido?
+
+503
+00:42:24,970 --> 00:42:26,060
+Você ouviu isso?
+
+504
+00:42:26,060 --> 00:42:28,560
+Alguém estava falando!
+
+505
+00:42:28,560 --> 00:42:30,940
+Para onde devemos ir?
+
+506
+00:42:30,940 --> 00:42:32,650
+É o computador!
+
+507
+00:42:34,320 --> 00:42:36,780
+O computador
+ganhou personalidade!
+
+508
+00:42:36,780 --> 00:42:39,530
+Está evoluindo!
+
+509
+00:42:39,530 --> 00:42:41,530
+Kamakura.
+
+510
+00:42:48,960 --> 00:42:51,960
+Este boletim especial
+acaba de chegar.
+
+511
+00:42:51,960 --> 00:42:56,760
+Esta manhã, às 9h,
+um robô não identificado...
+
+512
+00:42:58,880 --> 00:43:03,430
+Um robô não identificado aterrorizou
+os compradores no distrito de Kanto.
+
+513
+00:43:03,430 --> 00:43:05,520
+Isso soa como ficção científica.
+
+514
+00:43:05,520 --> 00:43:09,350
+Um repórter está no local.
+Nós levaremos você até lá agora.
+
+515
+00:43:09,350 --> 00:43:11,440
+Senhorita Sakata?
+
+516
+00:43:11,440 --> 00:43:13,940
+Estou na cena de
+um crime bizarro.
+
+517
+00:43:13,940 --> 00:43:17,990
+Você pode ver a destruição em
+todos os lugares ao meu redor.
+
+518
+00:43:17,990 --> 00:43:23,990
+Ninguém sabe de onde
+veio esse misterioso robô.
+
+519
+00:43:24,200 --> 00:43:26,290
+Ei, olha isso!
+
+520
+00:43:27,290 --> 00:43:30,920
+O quê? Acho que vou vomitar!
+
+521
+00:43:49,270 --> 00:43:52,100
+Caramba! Eu sabia
+que este era o lugar!
+
+522
+00:43:52,560 --> 00:43:53,810
+Ei, bom sistema!
+
+523
+00:43:55,690 --> 00:43:59,240
+Alguém viu aquela garota?
+
+524
+00:43:58,110 --> 00:44:01,150
+<i>Isto é um hospital! Por favor, controle-se!</i>
+
+525
+00:44:03,530 --> 00:44:06,780
+Onde ela está? Ei, você!
+
+526
+00:44:07,620 --> 00:44:10,080
+Yoshio!
+
+527
+00:44:14,580 --> 00:44:17,380
+Caramba! Vamos, Hasegawa!
+
+528
+00:44:18,420 --> 00:44:20,720
+Isto é um hospital!
+
+529
+00:44:20,720 --> 00:44:25,890
+Volte para mim, Yoshio!
+
+530
+00:44:56,920 --> 00:44:57,840
+Está vindo.
+
+531
+00:45:02,800 --> 00:45:05,470
+Foi adicionado algumas partes.
+
+532
+00:45:06,590 --> 00:45:08,810
+Comece a operação.
+
+533
+00:45:08,810 --> 00:45:10,260
+Coloque todos em posição.
+
+534
+00:45:19,230 --> 00:45:20,690
+Continue.
+
+535
+00:45:29,700 --> 00:45:32,580
+Por favor, minimize os danos.
+
+536
+00:45:32,580 --> 00:45:36,580
+O quartel-general já nos disse para
+não machucar o homem lá dentro.
+
+537
+00:45:36,580 --> 00:45:40,040
+Na verdade, quero que proteja
+a máquina. É muito valiosa.
+
+538
+00:45:55,060 --> 00:45:56,980
+Só um pouco mais longe.
+
+539
+00:45:56,980 --> 00:45:59,810
+Os homens de
+Nishibashi estão prontos?
+
+540
+00:45:59,810 --> 00:46:00,980
+Para!
+
+541
+00:46:00,980 --> 00:46:04,400
+Não! Você vai machucá-lo!
+
+542
+00:46:02,980 --> 00:46:05,110
+É ela! Agarre-a!
+
+543
+00:46:05,110 --> 00:46:06,280
+Prenda-a!
+
+544
+00:46:17,080 --> 00:46:18,830
+Solte-me!
+
+545
+00:46:18,830 --> 00:46:20,460
+Sr. Takazawa!
+
+546
+00:46:20,460 --> 00:46:25,130
+O que você está fazendo?
+Solte essa garota de uma vez!
+
+547
+00:46:25,130 --> 00:46:27,220
+Quem disse isso?
+
+548
+00:46:43,320 --> 00:46:44,820
+Pare o robô!
+
+549
+00:47:25,230 --> 00:47:26,610
+Você está bem?
+
+550
+00:47:27,650 --> 00:47:30,110
+Sim, eu estou bem.
+Como está o Sr. Takazawa?
+
+551
+00:47:30,110 --> 00:47:33,570
+Ele está bem.
+Ele finalmente adormeceu.
+
+552
+00:47:33,950 --> 00:47:35,080
+Aquela voz!
+
+553
+00:47:35,700 --> 00:47:38,330
+Bom, se me der licença...
+
+554
+00:47:50,970 --> 00:47:52,260
+Depois disso!
+
+555
+00:47:57,180 --> 00:48:01,440
+Me deixa ir!
+
+556
+00:48:01,440 --> 00:48:05,520
+Você arruinou nosso projeto e a
+esperança dos idosos desta nação!
+
+557
+00:48:05,520 --> 00:48:08,030
+Eu fiz o que eu tinha que fazer.
+
+558
+00:48:09,150 --> 00:48:11,990
+Sr. Terada, temos que pegá-lo!
+
+559
+00:48:11,990 --> 00:48:14,530
+Você assumirá total
+responsabilidade por isso!
+
+560
+00:48:14,530 --> 00:48:16,530
+Haruko!
+
+561
+00:48:22,370 --> 00:48:23,330
+Pegue-o!
+
+562
+00:48:30,920 --> 00:48:32,510
+Entendi!
+
+563
+00:48:32,510 --> 00:48:34,010
+Maeda!
+
+564
+00:48:34,890 --> 00:48:37,050
+Haruko!
+
+565
+00:48:37,050 --> 00:48:39,270
+Aguente firme, Maeda!
+
+566
+00:48:41,430 --> 00:48:42,850
+Espere!
+
+567
+00:48:49,320 --> 00:48:50,280
+Para onde está indo?
+
+568
+00:48:50,280 --> 00:48:51,650
+Em direção a Kanagawa.
+
+569
+00:48:51,650 --> 00:48:53,950
+Você poderia fugir?
+
+570
+00:48:53,950 --> 00:48:56,160
+Ah, com certeza.
+Hasegawa, mova-se.
+
+571
+00:48:57,240 --> 00:48:58,450
+É você!
+
+572
+00:48:58,450 --> 00:49:02,290
+O que você está fazendo aqui? Saia!
+
+573
+00:49:09,710 --> 00:49:12,300
+Envie-nos um helicóptero de notícias!
+
+574
+00:49:12,300 --> 00:49:13,340
+Ligue para o QG!
+
+575
+00:49:13,590 --> 00:49:15,430
+Eu quero uma foto disso!
+
+576
+00:49:15,430 --> 00:49:16,890
+Perdoe-me.
+
+577
+00:49:18,890 --> 00:49:21,720
+Esse robô é um amigo pessoal.
+
+578
+00:49:24,810 --> 00:49:30,480
+Você tem coragem!
+Aluna de faculdade presunçosa!
+
+579
+00:49:30,480 --> 00:49:33,940
+Ninguém pode
+parar o Z-001 agora!
+
+580
+00:49:33,940 --> 00:49:35,780
+É muito poderoso!
+
+581
+00:49:36,450 --> 00:49:38,660
+Você sabia que isso
+iria acontecer, não é?
+
+582
+00:49:39,330 --> 00:49:43,160
+Nunca esperei uma
+transformação tão radical.
+
+583
+00:49:43,160 --> 00:49:45,330
+Isso está além das
+expectativas de todos!
+
+584
+00:49:45,580 --> 00:49:49,040
+Você estava apenas
+usando o Ministério!
+
+585
+00:49:49,040 --> 00:49:50,880
+O secretário Minagawa
+foi totalmente informado.
+
+586
+00:49:52,000 --> 00:49:52,920
+Droga!
+
+587
+00:49:52,920 --> 00:49:55,420
+Então aquela cama de enfermagem...
+
+588
+00:49:55,420 --> 00:50:00,300
+O computador é o problema.
+A cama era apenas um estratagema.
+
+589
+00:50:00,510 --> 00:50:02,010
+Eu não estava mentindo.
+
+590
+00:50:02,010 --> 00:50:05,690
+Minha empresa está planejando
+vender uma cama de enfermagem.
+
+591
+00:50:05,690 --> 00:50:10,360
+Mas foi um teste perfeito para
+nosso novo computador multifuncional.
+
+592
+00:50:10,360 --> 00:50:12,530
+Era um projeto militar!
+
+593
+00:50:12,530 --> 00:50:17,490
+Você me disse que se importava
+com os idosos! Você mentiu para mim!
+
+594
+00:50:17,490 --> 00:50:20,910
+Não ousei dizer que
+era um teste de armas.
+
+595
+00:50:20,910 --> 00:50:23,830
+Mensagem do chão:
+Eles perderam o alvo!
+
+596
+00:50:24,080 --> 00:50:25,120
+O quê?
+
+597
+00:50:25,120 --> 00:50:26,210
+Está tudo certo.
+
+598
+00:50:29,290 --> 00:50:31,340
+Eu sei para onde está indo.
+
+599
+00:50:34,550 --> 00:50:36,840
+O que há de errado, Nobuko?
+
+600
+00:50:37,430 --> 00:50:38,380
+Onde está Haruko?
+
+601
+00:50:38,380 --> 00:50:41,300
+Ajude-me com os pacientes.
+
+602
+00:50:41,300 --> 00:50:42,760
+Onde está Haruko?
+
+603
+00:50:42,760 --> 00:50:43,760
+Kamakura!
+
+604
+00:50:43,760 --> 00:50:44,430
+Kamakura?
+
+605
+00:50:44,720 --> 00:50:45,980
+Kamakura?
+
+606
+00:50:47,560 --> 00:50:50,520
+Tenho certeza de que é
+para lá que Takazawa quer ir.
+
+607
+00:50:50,520 --> 00:50:55,440
+A cama agora tem uma personalidade
+baseada nas memórias de Takazawa.
+
+608
+00:50:55,440 --> 00:50:58,200
+Estou olhando para o
+perfil psicológico dele agora.
+
+609
+00:50:59,160 --> 00:51:00,660
+Sr. Takazawa!
+
+610
+00:51:04,290 --> 00:51:07,080
+O que está fazendo lá em cima?
+
+611
+00:51:07,080 --> 00:51:09,000
+Como conseguiu isso?
+
+612
+00:51:09,000 --> 00:51:11,420
+Deixe disso! Depressa!
+
+613
+00:51:18,130 --> 00:51:22,050
+Ele está usando a pista do monotrilho!
+
+614
+00:51:28,520 --> 00:51:30,980
+Sr. Takazawa!
+
+615
+00:51:45,410 --> 00:51:48,200
+Pare! Isso é muito perigoso!
+
+616
+00:51:48,450 --> 00:51:50,160
+Desça daí!
+
+617
+00:51:50,160 --> 00:51:51,960
+Leve-nos mais perto!
+
+618
+00:51:52,880 --> 00:51:56,250
+Eu disse que isso
+é muito perigoso!
+
+619
+00:51:56,250 --> 00:51:59,050
+Encoste agora!
+
+620
+00:51:59,050 --> 00:52:00,340
+Sr. Takazawa!
+
+621
+00:52:03,930 --> 00:52:06,220
+Sr. Takazawa!
+
+622
+00:52:06,220 --> 00:52:08,720
+Seu idiota! Você vai se matar!
+
+623
+00:52:09,060 --> 00:52:10,850
+Me deixa ir!
+
+624
+00:52:10,850 --> 00:52:13,060
+Seu pervertido!
+
+625
+00:52:13,060 --> 00:52:13,650
+Fique quieta!
+
+626
+00:52:13,650 --> 00:52:16,270
+Não, basta deixá-lo
+no recipiente.
+
+627
+00:52:16,270 --> 00:52:19,400
+Eu quero que você traga.
+O secretário deu permissão.
+
+628
+00:52:24,950 --> 00:52:25,950
+Sr. Terada!
+
+629
+00:52:33,750 --> 00:52:37,380
+Deixe-me para baixo!
+
+630
+00:52:39,920 --> 00:52:42,170
+Não podemos continuar voando tão baixo.
+
+631
+00:52:42,170 --> 00:52:43,340
+Então voe na frente.
+
+632
+00:52:43,340 --> 00:52:44,720
+E o Sr. Terada?
+
+633
+00:52:45,850 --> 00:52:48,720
+Espere!
+
+634
+00:52:58,940 --> 00:53:00,900
+Isso é muito perigoso!
+
+635
+00:53:00,900 --> 00:53:04,320
+Relaxe, Sr. Terada. Sua
+pressão arterial está subindo.
+
+636
+00:53:04,320 --> 00:53:05,990
+Quem disse isso? O velho homem?
+
+637
+00:53:06,240 --> 00:53:10,740
+Sua pressão arterial está em 197.
+Sua pulsação está em 103.
+
+638
+00:53:10,740 --> 00:53:13,710
+Muita emoção pode
+sobrecarregar seu coração.
+
+639
+00:53:15,420 --> 00:53:18,000
+Quem é você? O computador?
+
+640
+00:53:18,340 --> 00:53:21,590
+Eu sou a esposa de Takazawa, Haru.
+
+641
+00:53:21,590 --> 00:53:22,550
+O quê?
+
+642
+00:53:25,970 --> 00:53:27,260
+Você está bem?
+
+643
+00:53:27,260 --> 00:53:29,850
+Deixe-me ir, sua
+calculadora crescida!
+
+644
+00:53:29,850 --> 00:53:32,430
+Leve-me de volta ao Ministério!
+
+645
+00:53:32,430 --> 00:53:36,400
+Vocês são as pessoas que
+colocaram meu marido em tanta dor.
+
+646
+00:53:36,400 --> 00:53:39,860
+Tente entender como
+nós idosos nos sentimos!
+
+647
+00:53:39,860 --> 00:53:43,110
+Mas esse projeto foi
+pensado para ajudar os idosos!
+
+648
+00:53:43,110 --> 00:53:45,280
+E agora você estragou tudo!
+
+649
+00:53:44,030 --> 00:53:45,280
+<i>Chega!</i>
+
+650
+00:53:46,530 --> 00:53:50,160
+Uma enfermeira é inútil a menos
+que ela possa amar seu paciente.
+
+651
+00:53:50,160 --> 00:53:52,040
+Mas...
+
+652
+00:53:52,040 --> 00:53:55,460
+Meu marido só quer ir à praia.
+
+653
+00:53:55,460 --> 00:53:57,040
+Então sente-se e fique quieto!
+
+654
+00:53:58,540 --> 00:54:01,170
+Mas há um apagão de notícias!
+
+655
+00:54:01,170 --> 00:54:04,550
+Eu não me importo!
+Apenas continue filmando!
+
+656
+00:54:04,550 --> 00:54:07,050
+Indo aonde?
+
+657
+00:54:07,050 --> 00:54:09,430
+Praia Yui? Em Kamakura?
+
+658
+00:54:10,050 --> 00:54:14,640
+Alguns de nossos pacientes têm
+um link de computador para o leito.
+
+659
+00:54:14,640 --> 00:54:17,020
+Você me deve agora!
+
+660
+00:54:25,690 --> 00:54:29,320
+Haru, eu simpatizo com
+o que você está dizendo...
+
+661
+00:54:29,320 --> 00:54:32,160
+mas você não pode,
+por favor, voltar?
+
+662
+00:54:33,660 --> 00:54:39,670
+Este projeto tem suas falhas,
+mas vai beneficiar os idosos.
+
+663
+00:54:41,420 --> 00:54:46,920
+Por favor, volte para o
+bem deles. Por favor!
+
+664
+00:54:46,920 --> 00:54:48,840
+Haru.
+
+665
+00:54:48,840 --> 00:54:52,430
+Você vai deixar meu
+marido ver a praia primeiro?
+
+666
+00:54:52,430 --> 00:54:54,770
+Você vai voltar depois?
+
+667
+00:54:54,770 --> 00:54:56,430
+Eu prometo.
+
+668
+00:54:56,430 --> 00:54:59,940
+Você irá? Obrigado!
+
+669
+00:55:12,870 --> 00:55:14,370
+Está chegando!
+
+670
+00:55:14,370 --> 00:55:16,580
+Traga o caminhão para a frente.
+
+671
+00:55:16,580 --> 00:55:18,580
+Traga o caminhão!
+
+672
+00:55:27,590 --> 00:55:28,800
+Aí está!
+
+673
+00:55:33,140 --> 00:55:34,680
+Espere um minuto.
+
+674
+00:55:37,640 --> 00:55:39,850
+Sr. Terada, você está vivo!
+
+675
+00:55:39,850 --> 00:55:41,480
+Derrube a barricada!
+
+676
+00:55:42,060 --> 00:55:46,150
+Esta cama vai
+para a praia de Yui!
+
+677
+00:55:46,440 --> 00:55:48,280
+O que você está falando?
+
+678
+00:55:48,280 --> 00:55:50,780
+Fiz uma promessa ao computador.
+
+679
+00:55:50,780 --> 00:55:54,030
+Depois de irmos à praia,
+ela voltará. Se apresse!
+
+680
+00:55:56,990 --> 00:55:59,330
+Afastem-se, todos.
+Abra a estrada.
+
+681
+00:56:01,710 --> 00:56:03,330
+Traga o Alpha.
+
+682
+00:56:12,340 --> 00:56:15,100
+Hasegawa, o que é isso?
+
+683
+00:56:15,350 --> 00:56:19,180
+Esta é uma versão
+de combate do Z-001.
+
+684
+00:56:19,180 --> 00:56:23,600
+Não tem programação prévia,
+pelo que seguirá as nossas ordens.
+
+685
+00:56:23,850 --> 00:56:25,980
+Maldito! O que
+você está fazendo?
+
+686
+00:56:26,860 --> 00:56:28,230
+Nós vamos esmagá-lo.
+
+687
+00:56:28,230 --> 00:56:29,610
+O quê?
+
+688
+00:56:29,610 --> 00:56:33,910
+Como você pode fazer uma
+promessa a um computador com defeito?
+
+689
+00:56:35,240 --> 00:56:39,120
+Além disso, não podemos ignorar
+a destruição que está causando.
+
+690
+00:56:43,120 --> 00:56:45,380
+Você poderia, por favor, se afastar?
+
+691
+00:56:45,380 --> 00:56:47,920
+Não, Sr. Takazawa! Fique atrás!
+
+692
+00:56:51,170 --> 00:56:53,510
+Para!
+O Sr. Takazawa está lá dentro!
+
+693
+00:56:55,140 --> 00:56:57,510
+Sr. Takazawa, afaste-se!
+
+694
+00:57:06,520 --> 00:57:08,190
+Vai, cama!
+
+695
+00:57:08,190 --> 00:57:10,730
+Ninguém mexe com o
+Ministério do Bem-Estar Público!
+
+696
+00:57:14,490 --> 00:57:15,200
+Idiotas.
+
+697
+00:57:15,200 --> 00:57:20,620
+O Alpha tem o mesmo computador
+em um quadro de combate.
+
+698
+00:57:30,750 --> 00:57:32,380
+Sr. Takazawa!
+
+699
+00:57:32,380 --> 00:57:34,420
+Eu disse que iria consertar!
+
+700
+00:57:34,420 --> 00:57:37,470
+Esse cordão passa aqui!
+
+701
+00:57:47,690 --> 00:57:51,230
+Você pode me ouvir, senhorita?
+Por que você ainda não está na praia?
+
+702
+00:57:51,690 --> 00:57:53,990
+Ela parece estar com problemas.
+
+703
+00:57:54,320 --> 00:57:56,450
+O robô! Sr. Takazawa!
+
+704
+00:57:56,780 --> 00:57:59,160
+Parece que ela
+encontrou seu amigo.
+
+705
+00:57:59,160 --> 00:58:03,250
+Haruko, Maeda está a caminho!
+
+706
+00:58:08,670 --> 00:58:10,290
+Haruko!
+
+707
+00:58:11,920 --> 00:58:14,260
+Achei que tínhamos pedido
+um blecaute de notícias.
+
+708
+00:58:15,050 --> 00:58:18,220
+Apresse-se e esmague
+essa pilha de lixo!
+
+709
+00:58:49,460 --> 00:58:51,040
+Não vá! É muito perigoso!
+
+710
+00:58:54,840 --> 00:58:57,760
+A vida humana não
+significa nada para você?
+
+711
+00:58:58,010 --> 00:59:00,390
+Controle esse seu monstro!
+
+712
+00:59:00,390 --> 00:59:03,720
+Você também está envelhecendo.
+Você estará pronto para uma cama em breve.
+
+713
+00:59:03,720 --> 00:59:06,230
+Afaste-se e deixe-me trabalhar.
+
+714
+00:59:18,530 --> 00:59:20,410
+Haru!
+
+715
+00:59:20,410 --> 00:59:23,780
+A praia fica do outro
+lado deste túnel.
+
+716
+00:59:29,290 --> 00:59:31,420
+Quase lá.
+
+717
+00:59:47,980 --> 00:59:50,190
+Está caindo aos pedaços! Volta!
+
+718
+00:59:50,190 --> 00:59:52,980
+Mas o Sr. Takazawa está lá!
+
+719
+01:00:21,630 --> 01:00:24,390
+Haru, estou com fome.
+
+720
+01:00:24,390 --> 01:00:27,970
+Eu tenho minhas mãos cheias agora.
+Por favor, espere um momento, querido.
+
+721
+01:00:36,520 --> 01:00:37,980
+O que aconteceu?
+
+722
+01:00:37,980 --> 01:00:40,740
+É um desastre! Perdemos
+nosso elo com o Alpha!
+
+723
+01:00:40,740 --> 01:00:42,110
+O quê?!
+
+724
+01:01:36,540 --> 01:01:39,800
+O que aconteceu com Haruko?
+
+725
+01:01:39,800 --> 01:01:41,300
+Faça alguma coisa!
+
+726
+01:01:41,510 --> 01:01:45,300
+Você não sabe o que está perguntando!
+Há uma guerra lá dentro!
+
+727
+01:01:46,090 --> 01:01:48,600
+Serei morto se entrar!
+
+728
+01:01:49,720 --> 01:01:53,770
+Sério, que covarde!
+Seja um homem!
+
+729
+01:01:55,480 --> 01:01:57,980
+Ei, senhor Cavaleiro Branco!
+
+730
+01:01:58,310 --> 01:02:00,940
+Você sabe, uma mulher
+adora ser resgatada.
+
+731
+01:02:15,580 --> 01:02:17,330
+Haruko?
+
+732
+01:02:17,330 --> 01:02:20,590
+Por favor, cuide do meu marido.
+
+733
+01:02:29,930 --> 01:02:31,390
+Sr. Takazawa...
+
+734
+01:02:35,230 --> 01:02:38,440
+Minha esposa...
+
+735
+01:02:47,780 --> 01:02:49,700
+Sra. Takazawa!
+
+736
+01:02:49,990 --> 01:02:52,700
+Haruko!
+
+737
+01:02:53,030 --> 01:02:55,080
+Temos que sair daqui!
+
+738
+01:02:55,080 --> 01:02:55,950
+Não!
+
+739
+01:02:59,790 --> 01:03:01,080
+Haruko!
+Estou aqui para resgatá-la!
+
+740
+01:03:01,540 --> 01:03:03,960
+Siga aquele robô!
+
+741
+01:03:05,050 --> 01:03:09,220
+A praia está tão perto!
+Temos que alcançá-la!
+
+742
+01:03:48,170 --> 01:03:49,470
+Sra. Takazawa!
+
+743
+01:03:59,890 --> 01:04:01,190
+Droga!
+
+744
+01:04:07,820 --> 01:04:09,400
+Sra. Takazawa!
+
+745
+01:04:09,400 --> 01:04:10,570
+Mamãe!
+
+746
+01:04:10,860 --> 01:04:12,660
+Estou com fome!
+
+747
+01:04:12,910 --> 01:04:14,530
+Temos que sair!
+
+748
+01:04:18,870 --> 01:04:23,710
+A imagem!
+O que está acontecendo com Haruko?
+
+749
+01:04:23,000 --> 01:04:23,710
+<i>Quieta!</i>
+
+750
+01:04:24,170 --> 01:04:25,840
+Entendi!
+
+751
+01:04:25,840 --> 01:04:26,750
+Você está online?
+
+752
+01:04:30,260 --> 01:04:32,840
+Para! Para!
+
+753
+01:04:36,010 --> 01:04:39,560
+Você pode me ouvir?
+Esmague o chip principal!
+
+754
+01:04:39,560 --> 01:04:41,310
+A única maneira de matá-lo...
+
+755
+01:04:41,560 --> 01:04:42,850
+é quebrar a cabeça!
+
+756
+01:04:42,850 --> 01:04:44,900
+Onde?
+
+757
+01:04:44,900 --> 01:04:47,400
+Ele continua mudando!
+
+758
+01:04:51,820 --> 01:04:54,950
+Está na traseira esquerda agora.
+Nós vamos te direcionar!
+
+759
+01:04:55,280 --> 01:04:56,490
+Depressa!
+
+760
+01:04:56,490 --> 01:04:59,950
+Mas como posso quebrá-lo?
+
+761
+01:04:59,950 --> 01:05:02,790
+Usa isto! Depressa!
+
+762
+01:05:03,830 --> 01:05:05,290
+Um tanque de oxigênio?
+
+763
+01:05:05,540 --> 01:05:07,540
+Maeda, me dê uma mão!
+
+764
+01:05:10,380 --> 01:05:12,550
+Depressa! Vá!
+
+765
+01:05:15,840 --> 01:05:17,180
+O que está acontecendo?
+
+766
+01:05:24,690 --> 01:05:27,520
+Está fora de controle!
+Vamos sair daqui!
+
+767
+01:05:47,500 --> 01:05:49,880
+O que você acha
+que está fazendo?
+
+768
+01:05:50,750 --> 01:05:52,050
+Para!
+
+769
+01:06:02,470 --> 01:06:03,810
+Para!
+
+770
+01:06:27,670 --> 01:06:30,000
+Onde está o chip principal?
+
+771
+01:06:30,290 --> 01:06:31,460
+Cadê?
+
+772
+01:06:31,460 --> 01:06:34,050
+Está no canto superior
+esquerdo. Você pode ver isso?
+
+773
+01:06:34,880 --> 01:06:36,880
+Essa tola!
+
+774
+01:06:36,880 --> 01:06:38,430
+Sua idiota!
+
+775
+01:06:38,890 --> 01:06:41,890
+Querido, vou levar-te à praia.
+
+776
+01:06:43,970 --> 01:06:46,690
+Haru...
+
+777
+01:06:46,690 --> 01:06:49,440
+Ninguém mexe com o
+Ministério do Bem-Estar Público!
+
+778
+01:06:55,190 --> 01:06:56,990
+Não!
+
+779
+01:06:56,990 --> 01:06:58,530
+Não!
+
+780
+01:07:09,460 --> 01:07:13,170
+Não faça isso! Não faça isso!
+
+781
+01:07:13,170 --> 01:07:15,420
+Nós vamos à praia!
+
+782
+01:07:25,350 --> 01:07:27,560
+Sra. Takazawa, socorro!
+
+783
+01:08:29,580 --> 01:08:31,370
+Estou com fome!
+
+784
+01:08:35,630 --> 01:08:38,880
+Nossa, que show!
+
+785
+01:08:55,520 --> 01:08:57,980
+Ainda está em colapso!
+
+786
+01:09:01,360 --> 01:09:02,950
+Sra. Takazawa!
+
+787
+01:09:16,170 --> 01:09:18,290
+Sra. Takazawa!
+
+788
+01:09:18,290 --> 01:09:20,460
+Sra. Takazawa. Sra. Takazawa...
+
+789
+01:09:20,460 --> 01:09:21,710
+Sra. Takazawa.
+
+790
+01:09:21,920 --> 01:09:25,800
+Haruko, onde está meu marido?
+
+791
+01:09:25,800 --> 01:09:29,560
+Haru!
+
+792
+01:09:32,810 --> 01:09:36,770
+Querido, não posso continuar.
+
+793
+01:09:38,940 --> 01:09:43,740
+Haru!
+
+794
+01:09:44,610 --> 01:09:52,450
+Mas logo estaremos
+juntos novamente.
+
+795
+01:09:54,040 --> 01:09:55,500
+Haru...
+
+796
+01:09:57,210 --> 01:09:58,590
+Sr. Takazawa!
+
+797
+01:09:59,130 --> 01:10:02,510
+Sim, em breve estaremos
+juntos novamente...
+
+798
+01:10:03,130 --> 01:10:08,260
+Espere, Sr. Takazawa!
+
+799
+01:10:09,640 --> 01:10:12,390
+Ele está um pouco fraco,
+mas está bem.
+
+800
+01:10:12,390 --> 01:10:14,020
+Ele vai ficar bem.
+
+801
+01:10:14,770 --> 01:10:16,270
+Sr. Takazawa!
+
+802
+01:10:39,670 --> 01:10:44,800
+O dano foi causado pelo
+Ministério do Bem-Estar Público...
+
+803
+01:10:44,800 --> 01:10:48,220
+durante o teste de uma nova
+ambulância de cuidados geriátricos.
+
+804
+01:10:48,220 --> 01:10:53,180
+Yoshihiko Hasegawa
+foi preso após o acidente.
+
+805
+01:10:53,180 --> 01:10:57,730
+Hasegawa é um desenvolvedor
+da Nishibashi Corporation.
+
+806
+01:10:57,730 --> 01:11:03,650
+Hasegawa é acusado de entregar
+um computador com defeito...
+
+807
+01:11:03,650 --> 01:11:07,860
+que foi usado a bordo
+da ambulância fugitiva.
+
+808
+01:11:07,860 --> 01:11:13,660
+Os embarques de Nishibashi foram interrompidos enquanto se aguarda investigação.
+
+809
+01:11:14,120 --> 01:11:17,660
+Isso com certeza os incitou!
+
+810
+01:11:17,870 --> 01:11:22,670
+Bom trabalho, homens,
+mas nosso trabalho está feito.
+
+811
+01:11:22,670 --> 01:11:27,090
+Aquelas doninhas mentirosas
+disfarçaram muito bem.
+
+812
+01:11:28,090 --> 01:11:30,760
+"Os Maus Dormem Bem."
+
+813
+01:11:39,310 --> 01:11:40,690
+Sr. Terada!
+
+814
+01:11:41,440 --> 01:11:43,650
+Você poderia responder a uma pergunta?
+
+815
+01:11:43,650 --> 01:11:46,150
+Gostaríamos de uma declaração!
+
+816
+01:11:46,150 --> 01:11:49,320
+O secretário Minagawa
+responderá a todas as perguntas.
+
+817
+01:11:49,320 --> 01:11:52,660
+Como eu disse na conferência
+de imprensa de ontem...
+
+818
+01:11:53,950 --> 01:11:56,870
+Havia um velho
+dentro da ambulância?
+
+819
+01:11:56,870 --> 01:11:58,200
+Diga algo!
+
+820
+01:11:58,200 --> 01:12:04,170
+O velho era uma cobaia em
+um teste de armas militares?
+
+821
+01:12:04,750 --> 01:12:08,670
+Uma fonte anônima forneceu
+alguns arquivos interessantes.
+
+822
+01:12:08,670 --> 01:12:09,630
+Isso é verdade?
+
+823
+01:12:09,630 --> 01:12:13,300
+Como uma ambulância
+pode causar tanto dano?
+
+824
+01:12:13,300 --> 01:12:14,720
+O que realmente está acontecendo?
+
+825
+01:12:15,050 --> 01:12:19,430
+Tenho certeza de que
+tudo ficará claro no tribunal.
+
+826
+01:12:19,430 --> 01:12:23,770
+No entanto, este projeto ainda é
+destinado a beneficiar o público.
+
+827
+01:12:23,770 --> 01:12:28,360
+Embora nossa primeira tentativa
+tenha tido problemas, vamos corrigi-los.
+
+828
+01:12:28,360 --> 01:12:33,820
+Lamento que nosso anúncio
+tenha possibilitado tais rumores.
+
+829
+01:12:33,820 --> 01:12:34,490
+Isso é tudo que tenho a dizer.
+
+830
+01:12:34,490 --> 01:12:37,370
+Um momento, Sr. Terada!
+
+831
+01:12:48,590 --> 01:12:51,550
+Vamos vê-lo.
+
+832
+01:12:51,550 --> 01:12:52,680
+Claro...
+
+833
+01:13:05,650 --> 01:13:07,320
+Você está acordado,
+Sr. Takazawa?
+
+834
+01:13:08,320 --> 01:13:11,860
+Só estou trazendo flores hoje.
+Eu voltarei em breve.
+
+835
+01:13:11,860 --> 01:13:14,780
+Ir à praia...
+
+836
+01:13:14,780 --> 01:13:17,120
+Com certeza você foi à praia!
+
+837
+01:13:17,830 --> 01:13:20,750
+Muitas vezes você
+levava sua esposa lá.
+
+838
+01:13:20,750 --> 01:13:24,500
+Ela virá me buscar em breve.
+
+839
+01:13:24,500 --> 01:13:27,130
+Não diga coisas assim.
+
+840
+01:13:27,130 --> 01:13:29,630
+Você tem que pensar em melhorar.
+
+841
+01:13:29,630 --> 01:13:33,880
+Assim que você estiver melhor,
+voltaremos para a praia.
+
+842
+01:13:33,880 --> 01:13:37,220
+Eu vou para a praia.
+
+843
+01:13:37,640 --> 01:13:39,930
+Sim, então você...
+
+844
+01:13:40,850 --> 01:13:42,230
+Um terremoto?
+
+845
+01:13:58,120 --> 01:14:00,370
+Ela veio para mim.
+
+846
+01:14:07,960 --> 01:14:10,210
+Eu vim para você.
+
+847
+01:14:18,930 --> 01:14:21,560
+Haru!
+
+848
+01:14:21,560 --> 01:14:28,810
+Demorei um pouco para me
+acostumar com esse novo corpo.
+
+849
+01:14:28,810 --> 01:14:34,650
+Então, vamos à praia, querido?
+
+850
+01:19:26,500 --> 01:19:29,000
+Legenda
+[Portuguese - Brazilian]

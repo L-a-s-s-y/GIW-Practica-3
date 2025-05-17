@@ -1,0 +1,1323 @@
+1
+00:00:13,880 --> 00:00:15,075
+Fritz Lang's SPIONE was restored between 2003 and 2004
+
+2
+00:00:15,240 --> 00:00:16,719
+by the Friedrich-Wilhelm-Murnau-Stiftung.
+
+3
+00:00:16,840 --> 00:00:18,797
+As no original negative exists, various nitrate copies were used.
+
+4
+00:00:18,920 --> 00:00:20,558
+Due to its length and excellent condition, a copy from the Národni Filmovy Archiv, Prague, formed the restoration's basis,
+
+5
+00:00:20,680 --> 00:00:22,353
+as well as copies from the National Film and Sound Archive in Canberra
+
+6
+00:00:22,480 --> 00:00:24,153
+and the Cinematheque Francaise in Paris.
+
+7
+00:00:24,280 --> 00:00:25,998
+Some of the intertitles were copied from a copy in Vienna
+
+8
+00:00:26,120 --> 00:00:28,031
+and an internegative in the Moscow Institute Gosfilmofond
+
+9
+00:00:28,060 --> 00:00:29,184
+Lost opening credits were recreated
+
+10
+00:00:29,197 --> 00:00:30,331
+based on censorship cards.
+
+11
+00:00:30,360 --> 00:00:32,033
+Copying was carried out by L'Immagine Ritrovata in Bologna.
+
+12
+00:00:32,160 --> 00:00:33,992
+This version was used for 2K digital version.
+
+13
+00:00:34,640 --> 00:00:37,871
+SPIES
+
+14
+00:00:44,480 --> 00:00:47,598
+Distributed by UFA
+
+15
+00:00:47,720 --> 00:00:50,599
+Writer: Thea von Harbou
+
+16
+00:00:50,720 --> 00:00:54,315
+Director: Fritz Lang
+
+17
+00:00:54,440 --> 00:00:57,273
+Set Design: Otto Hunte, Karle Volbrecht
+
+18
+00:00:57,400 --> 00:00:59,960
+Camera: Fritz Arno Wagner
+
+19
+00:01:00,120 --> 00:01:02,157
+Cast:
+
+20
+00:01:02,280 --> 00:01:05,875
+Haghi... Rudolf Klein-Rogge
+
+21
+00:01:06,040 --> 00:01:09,112
+Sonja... Gerda Maurus
+
+22
+00:01:09,240 --> 00:01:12,232
+Kitty... Lien Deyers
+
+23
+00:01:12,360 --> 00:01:15,079
+Morrier... Louis Ralph
+
+24
+00:01:15,200 --> 00:01:17,430
+Chief Jason... Craighall Sherry
+
+25
+00:01:17,560 --> 00:01:20,518
+No. 326... Willy Fritsch
+
+26
+00:01:20,680 --> 00:01:23,513
+Franz, the chauffeur... Paul Hörbiger
+
+27
+00:01:23,640 --> 00:01:26,234
+Lady Leslane... Hertha von Walther
+
+28
+00:01:26,360 --> 00:01:29,159
+Dr. Matsumoto... Lupu Pick
+
+29
+00:01:29,280 --> 00:01:32,796
+Colonel Jellusic... Fritz Rasp
+
+30
+00:01:32,920 --> 00:01:39,951
+The novel "Spione" by Thea von Harbou was published by Scherl-Verlag, Berlin
+
+31
+00:01:40,120 --> 00:01:42,714
+Throughout the world... strange events transpire.
+
+32
+00:02:25,240 --> 00:02:27,800
+SENSATIONAL THEFT OF DOCUMENTS...
+
+33
+00:02:27,920 --> 00:02:29,718
+FRENCH EMBASSY... SHANGHAI
+
+34
+00:02:33,680 --> 00:02:35,671
+TELEPHONE
+
+35
+00:02:36,880 --> 00:02:38,071
+EXTRA!
+
+36
+00:02:38,100 --> 00:02:39,399
+Assassination attempt on the Minister of Trade.
+
+37
+00:02:39,420 --> 00:02:40,756
+The minister dies from his injuries.
+
+38
+00:02:40,777 --> 00:02:42,054
+Important documents have disappeared!
+
+39
+00:02:42,080 --> 00:02:43,201
+No trace of the perpetrator!
+
+40
+00:03:11,720 --> 00:03:14,320
+Are the officials in charge of state security so asleep on the job
+
+41
+00:03:14,400 --> 00:03:17,199
+... that our most important documents and secret files...
+
+42
+00:03:17,320 --> 00:03:18,993
+... can disappear without a trace?
+
+43
+00:03:31,040 --> 00:03:32,474
+I know... who...
+
+44
+00:03:47,680 --> 00:03:51,196
+Almighty God... what power is at play here?
+
+45
+00:03:56,197 --> 00:04:01,597
+I
+
+46
+00:04:06,720 --> 00:04:08,791
+Police Summons:Hans Pockzerwinski
+
+47
+00:04:08,920 --> 00:04:11,355
+For your interview, Hans Pockzerwinsky is required...
+
+48
+00:04:11,520 --> 00:04:13,955
+... his presence in room 2.R. Halle-Strasse 17A...
+
+49
+00:04:14,080 --> 00:04:17,152
+on Wednesday, August 15, 1927 between 10 and 11...
+
+50
+00:04:17,280 --> 00:04:19,157
+... present this citation.
+
+51
+00:04:19,320 --> 00:04:21,516
+Bring your identity documents.
+
+52
+00:04:52,520 --> 00:04:54,272
+POLICE STATION
+
+53
+00:05:24,560 --> 00:05:28,110
+Hans Pockzerwinski
+
+54
+00:06:02,840 --> 00:06:04,956
+From:Minister of Interior
+
+55
+00:06:05,080 --> 00:06:08,391
+From:Minister of the Interior To:M.B. Jason,
+Head of Secret Service By messenger
+
+56
+00:06:30,680 --> 00:06:32,876
+Dear Mr. Jason!
+
+57
+00:06:33,000 --> 00:06:35,594
+Enclosed please find several new caricatures
+
+58
+00:06:35,720 --> 00:06:38,758
+and opinions expressed by the public concerning your department...
+
+59
+00:06:38,880 --> 00:06:40,666
+Isn't it time to bring this ridicule of the helplessness
+
+60
+00:06:40,679 --> 00:06:42,475
+of the Secret Service to an end?
+
+61
+00:06:42,600 --> 00:06:45,353
+The Minister of the Interior.
+
+62
+00:08:11,000 --> 00:08:13,992
+What's the use of all your precautions in bringing me here
+
+63
+00:08:14,120 --> 00:08:17,158
+when I am secretly photographed by one of your staff in your own office...?
+
+64
+00:08:25,880 --> 00:08:31,114
+Who's paying you... you scoundrel - to inform on me...?!
+
+65
+00:08:35,000 --> 00:08:40,279
+I'd sooner die like a dog than become a traitor!
+
+66
+00:09:26,120 --> 00:09:31,832
+Your fate is in your hands, Vincent... Who are you working for?
+
+67
+00:09:35,400 --> 00:09:37,391
+Find out for yourself!
+
+68
+00:09:37,520 --> 00:09:41,400
+And may God have mercy on you if you find him!
+
+69
+00:09:53,880 --> 00:09:55,473
+Who is he talking about - ?!
+
+70
+00:10:02,800 --> 00:10:07,590
+If I knew, No. 326, I wouldn't need you!
+
+71
+00:10:07,720 --> 00:10:14,239
+And the public wouldn't be making a laughing stock of us!
+
+72
+00:10:57,640 --> 00:11:03,158
+It's easy for you to laugh because, fortunately for you, you prevented
+
+73
+00:11:03,280 --> 00:11:09,071
+your picture falling into the hands of this... damned spy...!
+
+74
+00:11:45,320 --> 00:11:51,999
+... and no one knows what this man looks like - ?!
+
+75
+00:11:59,720 --> 00:12:03,793
+A few... people have known... but...
+
+76
+00:13:02,640 --> 00:13:07,111
+I would be sorry, No. 326,
+
+77
+00:13:07,240 --> 00:13:10,915
+if I had to put a cross after your name as well... >
+
+78
+00:13:21,800 --> 00:13:23,359
+The Enemy...
+
+79
+00:13:50,800 --> 00:13:52,996
+Copy photos 4 and 6...!
+
+80
+00:13:53,120 --> 00:13:57,830
+Distribute to all members of the surveillance squad!
+
+81
+00:14:04,040 --> 00:14:06,077
+His headquarters...
+
+82
+00:14:45,240 --> 00:14:48,949
+Morrier kidnapped from the gallows.
+
+83
+00:14:49,080 --> 00:14:53,119
+Sensational act prior to execution.
+
+84
+00:14:53,240 --> 00:14:56,232
+Masked perpetrators escape.
+
+85
+00:16:05,400 --> 00:16:09,792
+This time, Morrier, I have saved you from the noose,
+
+86
+00:16:09,920 --> 00:16:14,596
+because I can make good use of a scoundrel like you...
+
+87
+00:16:14,720 --> 00:16:18,475
+But if ever I sign your death sentence...
+
+88
+00:16:27,920 --> 00:16:31,629
+I am a scoundrel, sir, but a grateful scoundrel...
+
+89
+00:17:30,200 --> 00:17:32,316
+is on her way...
+
+90
+00:17:32,440 --> 00:17:35,273
+... to the Haghi Bank.
+
+91
+00:18:03,880 --> 00:18:10,035
+Miss Barranikowa shall report to me immediately
+
+92
+00:18:10,160 --> 00:18:13,198
+when she returns from Colonel Jellusic.
+
+93
+00:18:18,040 --> 00:18:23,752
+Colonel Jellusic, a man of interest to many people...
+
+94
+00:18:58,560 --> 00:19:02,519
+Are there letters under this box number waiting for me?
+
+95
+00:19:47,200 --> 00:19:52,229
+What box number did this man just pick up letters from?
+
+96
+00:21:23,480 --> 00:21:25,915
+Sorry, Lady Leslane,
+
+97
+00:21:26,040 --> 00:21:28,839
+Director General Haghi would like to see...
+
+98
+00:21:28,960 --> 00:21:33,238
+it will be only two minutes... a formality...
+
+99
+00:21:33,360 --> 00:21:37,911
+because of what happened ihere...
+
+100
+00:22:29,240 --> 00:22:34,394
+I would like to make a proposal, Lady Leslane!
+
+101
+00:22:46,600 --> 00:22:51,754
+I would like to find out from you, as the wife of Roger Leslane
+
+102
+00:22:51,880 --> 00:22:56,795
+when and where the Japanese Secret Treaty will be signed.
+
+103
+00:22:56,920 --> 00:23:00,993
+.. and who will be present!
+
+104
+00:23:14,000 --> 00:23:17,516
+If I hear nothing within 48 hours,
+
+105
+00:23:17,640 --> 00:23:22,669
+in the 49th hour your husband
+
+106
+00:23:22,800 --> 00:23:28,478
+will find out just where his wife spends her Tuesday and Friday evenings...
+
+107
+00:24:07,040 --> 00:24:14,071
+Your efforts are futile, Lady Leslane, I have the negatives...
+
+108
+00:24:29,240 --> 00:24:36,476
+I'm richer than Ford, Lady Leslane, even if I pay significantly less in taxes.
+
+109
+00:24:58,400 --> 00:25:03,679
+The day after tomorrow,
+
+110
+00:25:03,800 --> 00:25:09,591
+you will deliver the data in writing to the owner of the opium den you know so well
+
+111
+00:25:09,720 --> 00:25:13,793
+and in exchange you will get the negative...
+
+112
+00:26:59,000 --> 00:27:01,799
+How far have you gotten with Jellusic?!
+
+113
+00:27:08,360 --> 00:27:12,991
+I've got him eating out of my hand!
+
+114
+00:27:13,120 --> 00:27:15,924
+And for a kiss he'd sell me all his
+
+115
+00:27:15,937 --> 00:27:18,752
+fortresses and the entire army of his country!
+
+116
+00:28:29,160 --> 00:28:35,111
+You know what to do.
+I expect a report tonight!
+
+117
+00:30:01,160 --> 00:30:04,835
+Save me - I shot him - !
+
+118
+00:36:37,240 --> 00:36:42,713
+... he invited me to come see him... about a tour... he...
+
+119
+00:36:42,840 --> 00:36:49,109
+he tried to force me... I didn't know what to do - so I shot him!
+
+120
+00:37:22,560 --> 00:37:25,837
+If you really want to help me... just let me leave!
+
+121
+00:38:03,240 --> 00:38:07,199
+It will be better for you and for me... if we never see each other again!
+
+122
+00:39:02,520 --> 00:39:07,151
+Choose whomever you wish for this project, but keep me out of it!
+
+123
+00:39:07,320 --> 00:39:09,520
+- I don't want to work against this man...
+
+124
+00:39:37,600 --> 00:39:41,753
+He reminds me... of my brother Sascha...
+
+125
+00:39:50,840 --> 00:39:58,270
+All the more reason for you to fight our enemies in the form of this man,
+
+126
+00:39:58,400 --> 00:40:05,318
+enemies who also were the enemies of your father, of your brother, or...
+
+127
+00:40:10,200 --> 00:40:13,079
+Have you forgotten?
+
+128
+00:40:37,960 --> 00:40:41,430
+SENTENCED TO DEATH.
+
+129
+00:40:50,840 --> 00:40:57,234
+They died innocent, two victims of the Ochrana of your Russian Czar -
+
+130
+00:41:07,640 --> 00:41:13,795
+... because they weren't smart enough to keep their thoughts to themselves!
+
+131
+00:42:02,640 --> 00:42:03,471
+My friend!
+
+132
+00:42:07,920 --> 00:42:10,309
+My friend!
+
+133
+00:42:19,960 --> 00:42:23,430
+I owe you an explanation.
+
+134
+00:42:28,160 --> 00:42:29,833
+... I must see you again.
+
+135
+00:43:01,640 --> 00:43:07,158
+Don't tell me you've fallen in love with this fellow - ?
+
+136
+00:44:02,600 --> 00:44:07,071
+My friend! I owe you an explanation and must see you again!
+
+137
+00:44:07,200 --> 00:44:12,479
+Come tomorrow at 4:00 to have...
+
+138
+00:44:13,800 --> 00:44:21,150
+a glass of real Russian tea - with the woman you saved - S.B.
+
+139
+00:44:23,440 --> 00:44:25,829
+Parkstrasse 24
+
+140
+00:46:12,480 --> 00:46:14,232
+The Diary as Lifesaver
+
+141
+00:46:21,200 --> 00:46:24,511
+... so that you will cry no more..
+
+142
+00:46:53,280 --> 00:46:56,477
+I am so happy - so happy - !
+
+143
+00:47:01,600 --> 00:47:03,716
+I, too...
+
+144
+00:48:13,160 --> 00:48:15,276
+From Russia?
+
+145
+00:48:56,880 --> 00:49:00,236
+In memory of my father and my brother...
+
+146
+00:49:00,360 --> 00:49:04,115
+they died as victims of the Czarist Ochrana...
+
+147
+00:50:00,880 --> 00:50:03,633
+But, is there nothing at all that you want - ?!
+
+148
+00:50:52,760 --> 00:50:55,354
+Eight O'Clock Evening Edition
+
+149
+00:51:17,800 --> 00:51:19,393
+Final Edition - !
+
+150
+00:51:53,600 --> 00:51:56,353
+Make me a gift of this evening!
+
+151
+00:52:17,600 --> 00:52:23,312
+I'll pick you up at 9:00- we'll go to Danielli. Okay?
+
+152
+00:53:25,560 --> 00:53:29,758
+Wear it forever - it shall bring you luck!
+
+153
+00:53:49,560 --> 00:53:54,794
+At 12 o'clock sharp everyone is at his post...
+
+154
+00:54:03,395 --> 00:54:07,395
+JAPANESE DEPARTMENT
+
+155
+00:54:52,600 --> 00:54:54,876
+.. Danielli...
+
+156
+00:56:22,800 --> 00:56:24,552
+Go immediately to J. H.
+
+157
+00:59:26,080 --> 00:59:28,674
+Pay Jellusic the price demanded in exchange
+
+158
+00:59:28,800 --> 00:59:31,235
+for all the mobilization plans in his possession. Under the condition...
+
+159
+00:59:31,360 --> 00:59:33,271
+Under the condition...
+
+160
+00:59:33,400 --> 00:59:37,234
+...that he cross the border tonight.
+
+161
+00:59:37,360 --> 00:59:41,194
+You will not return home, but will report to me immediately. H.
+
+162
+01:01:45,720 --> 01:01:47,711
+The condition is...
+
+163
+01:01:47,840 --> 01:01:52,038
+... that you have to cross the border tonight...
+
+164
+01:01:57,400 --> 01:02:00,040
+But the night is still young, my lovely Sonja...
+
+165
+01:02:00,160 --> 01:02:03,391
+and you had promised...
+
+166
+01:02:16,560 --> 01:02:19,439
+The documents...
+
+167
+01:03:36,120 --> 01:03:39,317
+A farewell kiss, beautiful Sonja...!
+
+168
+01:04:18,800 --> 01:04:21,599
+A cavalier does not betray his lady!
+
+169
+01:06:46,840 --> 01:06:48,592
+Drive home!
+
+170
+01:07:29,120 --> 01:07:30,633
+Are you satisfied now - ?
+
+171
+01:08:10,280 --> 01:08:13,671
+<So you love that young man?
+
+172
+01:09:00,200 --> 01:09:02,635
+Your house has been cleared out - you will live
+
+173
+01:09:02,760 --> 01:09:05,434
+at headquarters and
+
+174
+01:09:05,560 --> 01:09:08,313
+not leave your room without my permission-
+
+175
+01:11:47,280 --> 01:11:52,434
+If the Barranikowa woman had not once again been warned in time,
+
+176
+01:11:52,560 --> 01:11:57,589
+I would have raided her house tonight!
+
+177
+01:12:06,480 --> 01:12:12,271
+You are hardly the first to have fallen into the trap of this master spy.
+
+178
+01:12:47,120 --> 01:12:48,952
+Nothing is to deter a man
+
+179
+01:12:49,080 --> 01:12:50,673
+from the path of duty...
+
+180
+01:12:50,840 --> 01:12:52,399
+not even a woman...
+
+181
+01:14:55,040 --> 01:14:58,999
+Why don't you go home, my child?
+
+182
+01:16:51,560 --> 01:16:53,836
+Please, let me stay here!
+
+183
+01:16:54,000 --> 01:16:57,391
+Don't send me away again!
+
+184
+01:16:57,520 --> 01:17:01,593
+I won't take up any more space than a little dog...!
+
+185
+01:17:32,560 --> 01:17:36,349
+Have I offended you? Must I leave again?
+
+186
+01:18:47,183 --> 01:18:52,098
+When I went looking for the fellow early this morning,
+
+187
+01:18:52,223 --> 01:18:56,421
+he had already decamped... without a trace!
+
+188
+01:19:17,063 --> 01:19:22,012
+I'll show you pictures of all the people suspected
+
+189
+01:19:22,143 --> 01:19:25,579
+of being spies that were taken over the last month...
+
+190
+01:20:39,663 --> 01:20:47,663
+Colonel Jellusic left this morning at 2:40 on the Orient Express!
+
+191
+01:20:54,623 --> 01:20:58,935
+Opera Ball 13
+General Delivery, Main Post Office
+
+192
+01:21:47,663 --> 01:21:55,377
+I'll have this man watched by one of our agents as soon as he arrives.
+
+193
+01:22:09,583 --> 01:22:14,862
+A plane leaves in 45 minutes that will arrive down there.
+
+194
+01:22:14,983 --> 01:22:18,135
+... two hours after the Orient Express.
+
+195
+01:22:28,703 --> 01:22:30,535
+The Secret Service
+
+196
+01:22:30,663 --> 01:22:32,700
+reserves two seats
+
+197
+01:22:32,823 --> 01:22:35,736
+on the Aero Orient Express.
+
+198
+01:22:54,503 --> 01:22:57,495
+People like Jellusic can be had for money...!
+
+199
+01:22:57,663 --> 01:23:00,655
+If I offer him enough...
+
+200
+01:23:00,783 --> 01:23:05,857
+he'll betray those who are paying him!
+
+201
+01:23:39,023 --> 01:23:41,981
+Jellusic has to be put out of commission.
+
+202
+01:23:42,103 --> 01:23:45,095
+Denounce him as a spy to his Commander in Chief
+
+203
+01:23:45,223 --> 01:23:47,419
+... at General Headquarters!
+
+204
+01:25:25,743 --> 01:25:28,257
+Good afternoon, Mr. Jellusic...
+
+205
+01:26:29,503 --> 01:26:31,062
+So you don't deny...?
+
+206
+01:26:52,703 --> 01:26:56,094
+You are granted one last request, Mr. Jellusic...
+
+207
+01:27:17,463 --> 01:27:20,581
+I beg - in all - humility...
+
+208
+01:28:22,343 --> 01:28:25,973
+Surveillance Report Re:Signing of the Japanese Secret Agreement.
+
+209
+01:28:26,103 --> 01:28:30,256
+Location:Small conference room of the Japanese Embassy.
+
+210
+01:28:30,383 --> 01:28:33,421
+Time:5:30 a. m.
+
+211
+01:28:33,583 --> 01:28:37,294
+Present:The two treaty parties,
+
+212
+01:28:37,295 --> 01:28:40,660
+... and Chief of Secret Service Dr. Matsumoto.
+
+213
+01:28:40,783 --> 01:28:44,697
+The Embassy will be subject to the most stringent security measures.
+
+214
+01:29:16,023 --> 01:29:18,936
+I'll have this treaty in my hands tonight!
+
+215
+01:29:41,783 --> 01:29:43,296
+Gentlemen!
+
+216
+01:29:43,423 --> 01:29:46,779
+Gentlemen! One of these envelopes contains the most important treaty
+
+217
+01:29:46,903 --> 01:29:49,941
+Japan has concluded in a century...
+
+218
+01:29:53,383 --> 01:29:56,421
+You'll take three different routes to Tokyo... Whoever does not deliver
+
+219
+01:29:56,583 --> 01:30:01,532
+his letter with its seal unbroken
+
+220
+01:30:01,663 --> 01:30:05,577
+is not worthy of being called a Japanese!
+
+221
+01:31:27,583 --> 01:31:31,577
+Whose blood am I to wear around my neck, Haghi?
+
+222
+01:31:41,143 --> 01:31:43,293
+I called you, Sonja,
+
+223
+01:31:43,423 --> 01:31:45,255
+to clear things...
+
+224
+01:31:45,383 --> 01:31:47,294
+... between you and me.
+
+225
+01:32:07,703 --> 01:32:09,614
+Where is - he - ?!
+
+226
+01:32:16,183 --> 01:32:21,861
+He's trying to trace you through Jellusic.
+
+227
+01:32:43,543 --> 01:32:45,898
+SUDDEN DEATH OF COLONEL M.O. JELLUSIC.
+
+228
+01:32:46,023 --> 01:32:49,254
+As we learned after press time,
+
+229
+01:32:49,423 --> 01:32:52,575
+Jellusic, colonel extraordinaire at General Headquarters,
+
+230
+01:32:52,703 --> 01:32:55,741
+has died of a heart attack shortly after returning from a holiday trip.
+
+231
+01:33:46,743 --> 01:33:49,417
+20,000 pounds... in new bank notes -
+
+232
+01:33:49,543 --> 01:33:52,740
+with consecutive serial numbers...!
+
+233
+01:34:07,623 --> 01:34:10,456
+A blank telegram, please!
+
+234
+01:34:56,263 --> 01:34:59,142
+Find out immediately to whom the State Bank.
+
+235
+01:34:59,303 --> 01:35:01,692
+has issued notes in denominations of one thousand with...
+
+236
+01:35:01,823 --> 01:35:04,861
+... with consecutive numbers from 0319726 to 0319745 Stop
+
+237
+01:35:04,983 --> 01:35:06,860
+Return with next flight.
+
+238
+01:36:01,783 --> 01:36:03,137
+A special call...!
+
+239
+01:36:23,943 --> 01:36:26,059
+What - ?! The bank note numbers?!
+
+240
+01:36:43,343 --> 01:36:48,463
+You have to make up your mind, Sonja. Are you on my side - against him?
+
+241
+01:36:58,303 --> 01:37:03,537
+You still don't seem to know what I am capable of!
+
+242
+01:38:59,543 --> 01:39:02,740
+I have other irons in the fire...
+
+243
+01:40:22,183 --> 01:40:27,132
+- the house shall be yours... you will live
+
+244
+01:40:27,263 --> 01:40:30,574
+there as a little princess...
+
+245
+01:40:38,623 --> 01:40:40,500
+I have to go, Kitty...!
+
+246
+01:40:49,263 --> 01:40:51,857
+But not so fast - ! Not so fast - !
+
+247
+01:40:51,983 --> 01:40:54,372
+Just a few more hours - !
+
+248
+01:40:54,503 --> 01:40:57,461
+A few meagre hours...
+
+249
+01:41:29,823 --> 01:41:35,421
+Don't you see that I will die - if you leave me - ?
+
+250
+01:41:43,463 --> 01:41:48,333
+As surely as I shall win this battle, Sonja, I will defeat him...
+
+251
+01:41:48,503 --> 01:41:53,976
+Do you nevertheless stick to your decision?!?
+
+252
+01:42:08,503 --> 01:42:14,374
+And how long are you planning to keep me prisoner?
+
+253
+01:42:17,783 --> 01:42:22,619
+Until one of us is the victor, Sonja - he or I!
+
+254
+01:47:13,263 --> 01:47:16,255
+No. 326, who is coming back tonight, has sent us a radiogram that falls into your field of expertise...
+
+255
+01:47:43,143 --> 01:47:45,134
+Read it for yourself!
+
+256
+01:47:45,263 --> 01:47:48,619
+This matter has to be taken care of before No. 326 returns!
+
+257
+01:47:50,963 --> 01:47:53,120
+Find out immediately to whom the State Bank
+
+258
+01:47:53,143 --> 01:47:54,861
+has issued notes in denominations of one thousand...
+
+259
+01:47:54,983 --> 01:47:57,423
+... with consecutive numbers 0319726 to 0319745. STOP Return by next plane.
+
+260
+01:48:24,543 --> 01:48:30,539
+So I'll come tonight with No. 326 to your dressing room!
+
+261
+01:48:48,983 --> 01:48:52,453
+I'll take care of the postal censorship
+
+262
+01:48:52,583 --> 01:48:57,498
+- You see to it that all borders are closed!
+
+263
+01:48:57,623 --> 01:49:02,538
+If the treaty falls into the wrong hands, the war in the East is all but declared!
+
+264
+01:49:29,063 --> 01:49:31,339
+It's the last car -
+
+265
+01:49:31,463 --> 01:49:33,977
+... and it will happen in the tunnel...
+
+266
+01:49:34,103 --> 01:49:36,379
+if No. 326 falls into the trap
+
+267
+01:50:04,023 --> 01:50:12,023
+I have told you, Sonja, you will be free when one of us two men triumphs...
+
+268
+01:50:18,023 --> 01:50:21,778
+It is I who have been conquered... because I need you!
+
+269
+01:50:27,703 --> 01:50:32,015
+No one but you is skilful enough to bring
+
+270
+01:50:32,143 --> 01:50:35,454
+the photos of the treaty across the closed border...
+
+271
+01:50:35,583 --> 01:50:39,213
+Do me this one last service...
+
+272
+01:50:39,343 --> 01:50:43,541
+... and the road to the man you love will be open!
+
+273
+01:51:15,543 --> 01:51:22,256
+And you swear that he will be safe from you in the future if I say yes - ?
+
+274
+01:52:25,543 --> 01:52:28,192
+I believe they'll use a foreigner
+
+275
+01:52:28,193 --> 01:52:30,777
+to take the stolen treaty across the border
+
+276
+01:52:30,903 --> 01:52:36,774
+- and the sudden departure of the Russian courier is,
+
+277
+01:52:36,943 --> 01:52:40,299
+at the very least, suspicious...
+
+278
+01:52:44,543 --> 01:52:48,298
+... the more so now that 719 has determinedd
+
+279
+01:52:48,423 --> 01:52:52,417
+that the bank notes for Jellusic also came from Russian hands...
+
+280
+01:53:08,143 --> 01:53:11,374
+Unfortunately, I cannot leave here without destroying my cover
+
+281
+01:53:11,503 --> 01:53:14,700
+and jeopardizing my work as No. 719
+
+282
+01:53:14,823 --> 01:53:17,941
+But anyway I booked the neighboring compartment...
+
+283
+01:53:18,063 --> 01:53:21,260
+... to that of the Russian messenger...
+
+284
+01:53:40,543 --> 01:53:42,819
+Around 6 a.m. you will cross the border
+
+285
+01:53:42,943 --> 01:53:44,661
+that is the decisive moment!
+
+286
+01:55:08,303 --> 01:55:12,934
+I almost forgot what I found the other day...
+
+287
+02:01:36,343 --> 02:01:40,576
+The last car of the express train...
+
+288
+02:01:40,703 --> 02:01:42,979
+- crashed in the tunnel... -
+
+289
+02:04:51,103 --> 02:04:54,016
+You wretch!
+
+290
+02:04:54,143 --> 02:04:59,343
+Did Haghi send you to make sure that his damned plan was successful
+
+291
+02:05:02,503 --> 02:05:06,212
+You don't intend to betray us, do you... you scoundrel...?
+
+292
+02:09:30,063 --> 02:09:32,976
+Attention. Central. Central. Central..!
+
+293
+02:09:38,343 --> 02:09:40,459
+Attention. Central. Central. Central..!
+
+294
+02:09:46,663 --> 02:09:48,813
+Attention. Central. Central. Central..!
+
+295
+02:09:48,943 --> 02:09:51,981
+No. 326 is alive - ! Sonja has betrayed us - !
+
+296
+02:11:44,863 --> 02:11:48,140
+We wish to talk to Director Haghi.
+
+297
+02:11:53,383 --> 02:11:57,377
+Gentlemen, what could the police be looking for here - ?
+
+298
+02:12:01,623 --> 02:12:04,934
+A criminal - and the proof of his crime!
+
+299
+02:12:17,383 --> 02:12:23,095
+I order you to hand over to me the keys to all of the bank safes!
+
+300
+02:14:00,463 --> 02:14:03,421
+If the bank is not vacated within 15 minutes of receiving
+
+301
+02:14:03,543 --> 02:14:06,535
+this note, and the police have not withdrawn completely...
+
+302
+02:14:06,663 --> 02:14:09,132
+...the woman you love, whom I hold in my power, will die.
+
+303
+02:14:37,903 --> 02:14:41,862
+You have 14 minutes to live, Sonja,
+
+304
+02:14:41,983 --> 02:14:45,578
+... if he chooses not to obey me!
+
+305
+02:15:07,623 --> 02:15:10,581
+People's lives - in danger - !
+
+306
+02:15:10,703 --> 02:15:14,139
+The bank must be searched within 13 minutes,
+
+307
+02:15:14,263 --> 02:15:17,096
+and Haghi's secret room found - do you understand? -
+
+308
+02:16:45,983 --> 02:16:49,294
+Burn all papers...dynamite the safes...
+
+309
+02:16:49,423 --> 02:16:53,542
+In ten minutes the bank will be filled with gas!
+
+310
+02:17:03,183 --> 02:17:08,462
+Soon, Sonja, you will know all about the secrets of death.
+
+311
+02:17:08,623 --> 02:17:12,776
+- take with you a secret from my life!
+
+312
+02:18:17,303 --> 02:18:22,855
+The bank has been searched down to the foundations
+
+313
+02:18:22,983 --> 02:18:26,294
+- there is no trace of a secret exit.
+
+314
+02:24:19,423 --> 02:24:20,254
+Where is Haghi?
+
+315
+02:24:20,383 --> 02:24:21,976
+10,000 MARKS REWARD!
+
+316
+02:24:22,103 --> 02:24:23,463
+Who has seen the man pictured,
+
+317
+02:24:23,464 --> 02:24:25,264
+above, Bank Director Haghi, since midday?
+
+318
+02:24:25,343 --> 02:24:28,495
+Any type of information leading to his arrest..
+
+319
+02:24:28,623 --> 02:24:30,341
+... will receive the reward offered
+
+320
+02:24:46,983 --> 02:24:48,781
+WANTED
+
+321
+02:25:06,383 --> 02:25:08,057
+Not even a mouse would be able to leave the city
+
+322
+02:25:08,058 --> 02:25:09,341
+he has to be here somewhere...
+
+323
+02:25:20,063 --> 02:25:22,862
+There's a small error... I want to report...
+
+324
+02:25:29,023 --> 02:25:33,301
+It's just that... the numbers on the thousand pound notes...
+
+325
+02:25:33,423 --> 02:25:37,496
+which I have to deliver a receipt for...
+
+326
+02:25:37,623 --> 02:25:40,456
+The telegram contains different numbers!
+
+327
+02:26:04,343 --> 02:26:06,984
+No. 719... has switched the telegrams...! The Clown Nemo is Haghi!
+
+328
+02:27:54,743 --> 02:27:58,702
+A little music please - Mr. Conductor - !
+
+329
+02:29:32,023 --> 02:29:33,377
+Curtain - !
+
+330
+02:29:44,278 --> 02:29:46,378
+The End
+
