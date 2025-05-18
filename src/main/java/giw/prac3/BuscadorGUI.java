@@ -82,9 +82,8 @@ public class BuscadorGUI extends JFrame {
 
     private void listarTodosDocumentos(ActionEvent event){
         resultArea.setText("");
-        this.indexPath = "/home/lassy/MasterUGR/GIW/Practica3/index";
         try{
-            QueryParser queryParser = new QueryParser("title", new StandardAnalyzer());
+            QueryParser queryParser = new QueryParser("TITLE", new StandardAnalyzer());
             Query query = queryParser.parse("*:*");
             TopDocs todos = searcher.search(query, 2000);
             if (todos.scoreDocs != null) {
@@ -142,7 +141,6 @@ public class BuscadorGUI extends JFrame {
                 }
             
                 BooleanQuery finalQry = chainQryBldr.build();
-
                 TopDocs allFound = this.searcher.search(finalQry, 20);
 
                 if (allFound.scoreDocs != null) {
