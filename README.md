@@ -23,7 +23,7 @@ mvn clean package
 ### Indexador
 Desde el directorio del proyecto:
 ~~~
-java -cp target/giw-prac3-1.0-SNAPSHOT.jar giw.prac3.Indexador /[ruta a los documentos] [ruta al archivo de stopwords] [ruta al directorio que será el índice]
+java -cp target/giw-prac3-1.0-SNAPSHOT.jar giw.prac3.Indexador [ruta a los documentos] [ruta al archivo de stopwords] [ruta al directorio que será el índice]
 ~~~
 ## Motor de búsqueda
 Desde el directorio del proyecto:
