@@ -34,14 +34,13 @@ public class Indexador {
         stopwordsPath = args[1];
         indexPath = args[2];
 
+        FSDirectory indexDir = FSDirectory.open(Paths.get(indexPath));
 
         CharArraySet stopwords = loadStopwords(stopwordsPath);
         Analyzer analyzer = new StandardAnalyzer(stopwords);
         IndexWriterConfig config = new IndexWriterConfig(analyzer);
         config.setOpenMode(OpenMode.CREATE_OR_APPEND);
         config.setCodec(new SimpleTextCodec());
-
-        FSDirectory indexDir = FSDirectory.open(Paths.get(indexPath));
         IndexWriter writer = new IndexWriter(indexDir, config);
 
         indexDocs(writer, Paths.get(docsPath));
@@ -55,7 +54,7 @@ public class Indexador {
     }
 
     private static CharArraySet loadStopwords(String filePath) throws IOException {
-        List<String> stopwordList = new ArrayList<>();
+        ArrayList<String> stopwordList = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;
             while ((line = reader.readLine()) != null) {
@@ -69,7 +68,7 @@ public class Indexador {
         if (Files.isDirectory(path)) {
             Files.walk(path)
                 .filter(p -> !Files.isDirectory(p))
-                .filter(p -> p.toString().endsWith(".srt") || p.toString().endsWith(".txt"))
+                .filter(p -> p.toString().endsWith(".srt"))
                 .forEach(p -> {
                     try {
                         indexDoc(writer, p);
@@ -115,7 +114,6 @@ public class Indexador {
                 // intentar siguiente codificación
             }
         }
-
         throw new IOException("No se pudo leer el archivo con ninguna codificación compatible.");
     }
 }

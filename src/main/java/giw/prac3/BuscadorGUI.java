@@ -27,7 +27,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Gui extends JFrame {
+public class BuscadorGUI extends JFrame {
 
     private final JTextField queryField;
     private final JTextArea resultArea;
@@ -36,19 +36,23 @@ public class Gui extends JFrame {
 
     private final IndexSearcher searcher;
     private final Analyzer analyzer;
+    private final DirectoryReader reader;
 
     private String indexPath;
+    private String stopwordsPath;
 
-    public Gui() throws Exception {
+    public BuscadorGUI(String the_index, String the_stopwords) throws Exception {
         super("Buscador Lucene");
 
-        String stopwordsPath = "/home/lassy/MasterUGR/GIW/Practica3/lista_stop_words.txt";
-        this.indexPath = "/home/lassy/MasterUGR/GIW/Practica3/index";
+        this.indexPath = the_index;
+        this.stopwordsPath = the_stopwords;
+
+        FSDirectory indexDir = FSDirectory.open(Paths.get(indexPath));
+        this.searcher = new IndexSearcher(DirectoryReader.open(indexDir));
+        this.reader = DirectoryReader.open(indexDir);
 
         CharArraySet stopwords = loadStopwords(stopwordsPath);
         this.analyzer = new StandardAnalyzer(stopwords);
-        DirectoryReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
-        this.searcher = new IndexSearcher(reader);
 
         queryField = new JTextField(30);
         searchButton = new JButton("Buscar");
@@ -80,22 +84,18 @@ public class Gui extends JFrame {
         resultArea.setText("");
         this.indexPath = "/home/lassy/MasterUGR/GIW/Practica3/index";
         try{
-            FSDirectory indexDir = FSDirectory.open(Paths.get(indexPath));
-            IndexSearcher searcher = new IndexSearcher(DirectoryReader.open(indexDir));
             QueryParser queryParser = new QueryParser("title", new StandardAnalyzer());
             Query query = queryParser.parse("*:*");
             TopDocs todos = searcher.search(query, 2000);
             if (todos.scoreDocs != null) {
                 StoredFields storedFields = searcher.storedFields();
-                DirectoryReader reader = DirectoryReader.open(indexDir);
-                resultArea.append("Total de documentos: " + reader.maxDoc()+"\n");
+                resultArea.append("Total de documentos: " + this.reader.maxDoc()+"\n");
                 for (ScoreDoc doc : todos.scoreDocs){
                     int docidx = doc.doc;
                     Document docRetrieved = storedFields.document(docidx);
                     resultArea.append("------------------------------------------------------------------------\n");
                     resultArea.append("Title: "+docRetrieved.get("TITLE")+"\n");
                     resultArea.append("Path: "+docRetrieved.get("PATH")+"\n");
-
                 }
                 resultArea.append("------------------------------------------------------------------------\n");
             }
@@ -117,14 +117,10 @@ public class Gui extends JFrame {
             return;
         }
 
-        this.indexPath = "/home/lassy/MasterUGR/GIW/Practica3/index";
-        System.out.println("------------------------------------------------------------------------");
-        System.out.println("BUSCANDO: "+searchVal);
+        resultArea.append("BUSCANDO: "+searchVal);
+        resultArea.append("------------------------------------------------------------------------");
 
         try{
-            FSDirectory indexDir = FSDirectory.open(Paths.get(indexPath));
-            IndexSearcher searcher = new IndexSearcher(DirectoryReader.open(indexDir));
-
             ArrayList<String> allSearchKeywords = new ArrayList<>();
             String words[] = searchVal.split(" ");
             for(int i = 0; i<words.length; i++){
@@ -147,7 +143,7 @@ public class Gui extends JFrame {
             
                 BooleanQuery finalQry = chainQryBldr.build();
 
-                TopDocs allFound = searcher.search(finalQry, 20);
+                TopDocs allFound = this.searcher.search(finalQry, 20);
 
                 if (allFound.scoreDocs != null) {
 
@@ -155,8 +151,7 @@ public class Gui extends JFrame {
                     Fragmenter fragmenter = new SimpleSpanFragmenter(scorer, 100);
                     Highlighter highlighter = new Highlighter(new SimpleHTMLFormatter(">", "<"), scorer);
                     highlighter.setTextFragmenter(fragmenter);
-                    //fragmenter.
-                    StoredFields storedFields = searcher.storedFields();
+                    StoredFields storedFields = this.searcher.storedFields();
                     for (ScoreDoc doc : allFound.scoreDocs){
                         int docidx = doc.doc;
                         Document docRetrieved = storedFields.document(docidx);
@@ -190,14 +185,15 @@ public class Gui extends JFrame {
         return new CharArraySet(stopwordList, true);
     }
     public static void main(String[] args) throws Exception {
-        //if (args.length != 2) {
-        //    System.err.println("Uso: java BuscadorGUI <ruta-indice> <archivo-stopwords>");
-        //    System.exit(1);
-        //}
+
+        if (args.length != 2) {
+            System.err.println("Uso: java BuscadorGUI <ruta-indice> <archivo-stopwords>");
+            System.exit(1);
+        }
 
         SwingUtilities.invokeLater(() -> {
             try {
-                new Gui();
+                new BuscadorGUI(args[0], args[1]);
             } catch (Exception e) {
                 e.printStackTrace();
                 JOptionPane.showMessageDialog(null, "Error al iniciar el buscador: " + e.getMessage());
